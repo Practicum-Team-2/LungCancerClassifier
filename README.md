@@ -4,4 +4,4 @@ Lung cancer is one of the most common malignant diseases worldwide and is a majo
 
 ![image](https://user-images.githubusercontent.com/78892787/155035824-e055b78c-14c4-4c9f-89b2-1af2f73c48ae.png)
 
-**the TNM staging system** : see explanation of the "M/T/T stage" variables in https://www.cancerresearchuk.org/about-cancer/lung-cancer/stages-types-grades/tnm-staging
+**the TNM staging system** : see explanation of the "M/N/T stage" variables in https://www.cancerresearchuk.org/about-cancer/lung-cancer/stages-types-grades/tnm-staging
