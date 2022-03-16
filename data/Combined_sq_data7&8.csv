@@ -1,0 +1,688 @@
+,Cancer Type Detailed,Mutation Count,Fraction Genome Altered,Diagnosis Age,Sex,Survival Stage,T Stage,Somatic Status,Smoking History,Person Cigarette Smoking History Pack Year Value,TMB Nonsynonymous
+0,Lung Adenocarcinoma,30,0.1844,58,Female,,,Matched,Ever,,32.16550372
+1,Lung Adenocarcinoma,1,0.3606,60,Male,,,Matched,Ever,,1.109155301
+2,Lung Adenocarcinoma,2,0.1173,68,Female,,,Matched,Ever,,2.218310601
+3,Lung Squamous Cell Carcinoma,8,0.238,77,Male,,,Matched,Ever,,8.873242405
+4,Large Cell Neuroendocrine Carcinoma,7,0.0051,66,Male,,,Matched,Ever,,7.764087104
+5,Lung Squamous Cell Carcinoma,7,0.0532,67,Male,,,Matched,Ever,,6.052886665
+6,Lung Squamous Cell Carcinoma,11,0.1383,71,Male,,,Matched,Never,,12.20070831
+7,Lung Adenocarcinoma,1,0.0035,66,Male,,,Matched,Ever,,1.109155301
+8,Lung Adenocarcinoma,3,0.1103,42,Male,,,Matched,Never,,3.327465902
+9,Lung Adenocarcinoma,4,0.0301,57,Male,,,Matched,Never,,4.436621202
+10,Lung Adenocarcinoma,5,0.025,49,Female,,,Matched,Ever,,5.545776503
+11,Lung Adenocarcinoma,24,0.044,68,Female,,,Matched,Ever,,23.48927274
+12,Lung Adenocarcinoma,3,0.0735,58,Male,,,Matched,Ever,,2.936159093
+13,Lung Adenocarcinoma,6,0.4668,73,Female,,,Matched,Ever,,6.654931804
+14,Lung Squamous Cell Carcinoma,4,0.049,64,Male,,,Matched,Ever,,4.436621202
+15,Lung Adenocarcinoma,5,0.286,79,Male,,,Matched,Never,,5.545776503
+16,Lung Adenocarcinoma,4,0.1441,58,Female,,,Matched,Never,,3.91487879
+17,Lung Adenocarcinoma,9,0.3716,59,Female,,,Matched,Never,,8.808477279
+18,Lung Adenocarcinoma,11,0.0021,65,Male,,,Matched,Ever,,12.20070831
+19,Large Cell Neuroendocrine Carcinoma,1,0.4858,44,Female,,,Matched,Ever,,1.109155301
+20,Lung Adenocarcinoma,90,0.5235,53,Male,,,Matched,Ever,,96.49651115
+21,Non-Small Cell Lung Cancer,6,0.0396,62,Male,,,Matched,Ever,,6.654931804
+22,Lung Adenocarcinoma,11,0.0909,71,Male,,,Matched,Ever,,12.20070831
+23,Lung Adenocarcinoma,13,0.0149,50,Female,,,Matched,Ever,,14.41901891
+24,Lung Adenocarcinoma,4,0.1663,55,Female,,,Matched,Never,,4.436621202
+25,Lung Adenocarcinoma,1,0.0736,48,Female,,,Matched,Never,,1.109155301
+26,Lung Adenocarcinoma,11,0.0277,74,Female,,,Matched,Ever,,12.20070831
+27,Lung Adenocarcinoma,21,0.3102,60,Female,,,Matched,Ever,,23.29226131
+28,Lung Adenocarcinoma,13,0.4968,70,Male,,,Matched,Ever,,14.41901891
+29,Lung Adenocarcinoma,2,0.7748,31,Female,,,Matched,Never,,2.218310601
+30,Lung Adenocarcinoma,9,0.0522,80,Male,,,Matched,Ever,,9.982397705
+31,Lung Squamous Cell Carcinoma,6,0.2272,64,Female,,,Matched,Ever,,6.654931804
+32,Lung Adenocarcinoma,9,0.0901,71,Female,,,Matched,Ever,,9.982397705
+33,Lung Adenocarcinoma,12,0.1777,66,Male,,,Matched,Ever,,13.30986361
+34,Lung Squamous Cell Carcinoma,3,0.1323,71,Male,,,Matched,Never,,2.936159093
+35,Lung Adenocarcinoma,19,0.0504,69,Female,,,Matched,Ever,,21.07395071
+36,Lung Squamous Cell Carcinoma,15,0.6551,73,Female,,,Matched,Ever,,16.63732951
+37,Lung Adenocarcinoma,4,0.3432,75,Female,,,Matched,Never,,4.436621202
+38,Lung Adenocarcinoma,6,0.106,57,Male,,,Matched,Never,,6.654931804
+39,Lung Squamous Cell Carcinoma,7,0.0938,74,Female,,,Matched,Ever,,7.764087104
+40,Lung Adenocarcinoma,15,0.3995,66,Male,,,Matched,Ever,,16.63732951
+41,Lung Squamous Cell Carcinoma,3,0.0331,43,Male,,,Matched,Ever,,3.327465902
+42,Lung Adenocarcinoma,4,0.0375,67,Male,,,Matched,Ever,,3.327465902
+43,Lung Adenocarcinoma,1,0.1446,37,Female,,,Matched,Never,,1.109155301
+44,Large Cell Neuroendocrine Carcinoma,17,0.6353,53,Male,,,Matched,Ever,,18.85564011
+45,Lung Adenocarcinoma,11,0.0357,67,Female,,,Matched,Ever,,12.20070831
+46,Lung Adenocarcinoma,10,0.5614,64,Female,,,Matched,Ever,,9.787196976
+47,Lung Adenocarcinoma,2,0.1074,68,Female,,,Matched,Ever,,2.218310601
+48,Non-Small Cell Lung Cancer,30,0.2301,62,Male,,,Matched,Ever,,33.27465902
+49,Lung Adenocarcinoma,5,0.0486,66,Female,,,Matched,Ever,,5.545776503
+50,Lung Adenocarcinoma,9,0.0593,61,Female,,,Matched,Ever,,7.829757581
+51,Lung Adenocarcinoma,4,0.1871,80,Male,,,Matched,Ever,,4.436621202
+52,Lung Adenocarcinoma,13,0.5141,61,Female,,,Matched,Ever,,14.41901891
+53,Lung Adenocarcinoma,13,0.4288,55,Female,,,Matched,Ever,,14.41901891
+54,Lung Adenocarcinoma,6,0.195,40,Female,,,Matched,Never,,6.654931804
+55,Lung Adenocarcinoma,5,0.2042,73,Male,,,Matched,Ever,,5.545776503
+56,Lung Adenocarcinoma,2,0.0742,22,Male,,,Matched,Never,,2.218310601
+57,Lung Adenocarcinoma,6,0.2804,51,Female,,,Matched,Ever,,6.654931804
+58,Lung Adenocarcinoma,13,0.0838,73,Female,,,Matched,Ever,,14.41901891
+59,Lung Squamous Cell Carcinoma,7,0.0561,56,Male,,,Matched,Ever,,7.764087104
+60,Lung Adenocarcinoma,20,0.1105,56,Male,,,Matched,Ever,,22.18310601
+61,Lung Adenocarcinoma,4,0.006,81,Female,,,Matched,Never,,4.436621202
+62,Lung Adenocarcinoma,14,0.4435,80,Male,,,Matched,Ever,,13.70207577
+63,Lung Adenocarcinoma,13,0.0994,53,Male,,,Matched,Ever,,12.72335607
+64,Lung Squamous Cell Carcinoma,35,0.2879,67,Female,,,Matched,Ever,,34.25518942
+65,Lung Squamous Cell Carcinoma,6,0.0018,63,Male,,,Matched,Never,,5.872318186
+66,Lung Adenocarcinoma,49,0.0215,60,Male,,,Matched,Ever,,47.95726518
+67,Lung Adenocarcinoma,3,0.0021,69,Male,,,Matched,Ever,,2.936159093
+68,Lung Adenocarcinoma,3,0.026,73,Female,,,Matched,Never,,2.936159093
+69,Lung Squamous Cell Carcinoma,15,0.6451,58,Male,,,Matched,Ever,,14.68079546
+70,Lung Adenocarcinoma,9,0.0034,57,Female,,,Matched,Ever,,8.808477279
+71,Lung Adenocarcinoma,4,0.0301,92,Female,,,Matched,Never,,3.91487879
+72,Lung Adenocarcinoma,37,0.4453,60,Female,,,Matched,Ever,,36.21262881
+73,Lung Adenocarcinoma,11,0.0197,59,Male,,,Matched,Ever,,10.76591667
+74,Lung Adenocarcinoma,1,0.0073,68,Female,,,Matched,Ever,,0.978719698
+75,Lung Adenocarcinoma,5,0.0,57,Female,,,Matched,Never,,4.893598488
+76,Lung Adenocarcinoma,3,0.008,58,Male,,,Matched,Ever,,2.936159093
+77,Lung Adenocarcinoma,56,0.3305,66,Female,,,Matched,Ever,,54.80830307
+78,Lung Adenocarcinoma,3,0.2838,44,Female,,,Matched,Never,,3.327465902
+79,Lung Adenocarcinoma,9,0.1301,73,Male,,,Matched,Ever,,9.982397705
+80,Lung Adenocarcinoma,3,0.008,47,Female,,,Matched,Never,,1.957439395
+81,Lung Adenocarcinoma,5,0.0332,58,Female,,,Matched,Ever,,4.893598488
+82,Lung Adenocarcinoma,14,0.4758,61,Male,,,Matched,Ever,,13.70207577
+83,Lung Adenocarcinoma,7,0.2362,75,Male,,,Matched,Ever,,6.851037883
+84,Lung Adenocarcinoma,3,0.4287,59,Female,,,Matched,Never,,2.936159093
+85,Lung Adenocarcinoma,6,0.3612,75,Male,,,Matched,Ever,,5.872318186
+86,Lung Adenocarcinoma,35,0.1472,62,Male,,,Matched,Ever,,34.25518942
+87,Lung Adenocarcinoma,7,0.1952,82,Male,,,Matched,Never,,6.851037883
+88,Lung Adenocarcinoma,15,0.3057,62,Female,,,Matched,Ever,,13.70207577
+89,Lung Squamous Cell Carcinoma,9,0.0032,40,Male,,,Matched,Ever,,8.808477279
+90,Lung Squamous Cell Carcinoma,14,0.3808,67,Male,,,Matched,Never,,13.70207577
+91,Lung Adenocarcinoma,4,0.0035,73,Male,,,Matched,Ever,,3.91487879
+92,Non-Small Cell Lung Cancer,20,0.2318,52,Female,,,Matched,Ever,,19.57439395
+93,Lung Adenocarcinoma,1,0.0029,86,Male,,,Matched,Never,,0.978719698
+94,Lung Adenocarcinoma,2,0.2838,63,Female,,,Matched,Ever,,1.957439395
+95,Lung Squamous Cell Carcinoma,8,0.0083,58,Male,,,Matched,Ever,,7.829757581
+96,Lung Adenocarcinoma,12,0.5565,69,Female,,,Matched,Ever,,10.76591667
+97,Lung Adenocarcinoma,5,0.2293,69,Female,,,Matched,Ever,,4.893598488
+98,Lung Squamous Cell Carcinoma,3,0.2697,54,Male,,,Matched,Never,,2.936159093
+99,Lung Adenocarcinoma,4,0.0002,68,Female,,,Matched,Never,,3.91487879
+100,Lung Squamous Cell Carcinoma,2,0.1928,55,Male,,,Matched,Ever,,1.957439395
+101,Lung Adenocarcinoma,10,0.1431,67,Male,,,Matched,Ever,,9.787196976
+102,Lung Adenocarcinoma,4,0.0451,73,Male,,,Matched,Ever,,3.91487879
+103,Lung Adenocarcinoma,8,0.0037,47,Male,,,Matched,Ever,,7.829757581
+104,Lung Adenocarcinoma,6,0.039,67,Male,,,Matched,Ever,,5.872318186
+105,Lung Adenocarcinoma,6,0.021,81,Female,,,Matched,Ever,,5.872318186
+106,Lung Adenocarcinoma,7,0.0239,79,Male,,,Matched,Ever,,6.851037883
+107,Lung Adenocarcinoma,4,0.0218,64,Male,,,Matched,Ever,,3.91487879
+108,Lung Squamous Cell Carcinoma,11,0.5824,59,Male,,,Matched,Ever,,10.76591667
+109,Lung Adenocarcinoma,18,0.0923,81,Female,,,Matched,Ever,,16.63823486
+110,Lung Squamous Cell Carcinoma,4,0.1835,71,Female,,,Matched,Never,,3.91487879
+111,Lung Adenocarcinoma,11,0.1396,81,Female,,,Matched,Ever,,10.76591667
+112,Lung Adenocarcinoma,10,0.1121,60,Male,,,Matched,Ever,,9.787196976
+113,Lung Adenocarcinoma,2,0.0,62,Female,,,Matched,Never,,1.957439395
+114,Lung Adenocarcinoma,18,0.4911,53,Female,,,Matched,Ever,,17.61695456
+115,Lung Adenocarcinoma,7,0.4312,62,Male,,,Matched,Never,,6.851037883
+116,Lung Adenocarcinoma,4,0.1314,55,Female,,,Matched,Never,,3.91487879
+117,Lung Adenocarcinoma,4,0.0515,63,Female,,,Matched,Ever,,3.91487879
+118,Lung Adenocarcinoma,6,0.1859,51,Female,,,Matched,Never,,4.893598488
+119,Lung Adenocarcinoma,2,0.3148,45,Male,,,Matched,Never,,1.957439395
+120,Lung Adenocarcinoma,6,0.0054,60,Female,,,Matched,Ever,,5.872318186
+121,Lung Adenocarcinoma,6,0.0029,63,Male,,,Matched,Ever,,4.893598488
+122,Lung Adenocarcinoma,5,0.1869,86,Male,,,Matched,Ever,,4.893598488
+123,Lung Squamous Cell Carcinoma,12,0.0009,70,Male,,,Matched,Ever,,11.74463637
+124,Lung Adenocarcinoma,21,0.1633,68,Female,,,Matched,Ever,,20.55311365
+125,Non-Small Cell Lung Cancer,24,0.6133,48,Female,,,Matched,Ever,,23.48927274
+126,Lung Adenocarcinoma,13,0.5377,66,Male,,,Matched,Ever,,12.72335607
+127,Lung Adenocarcinoma,37,0.0011,65,Male,,,Matched,Ever,,36.21262881
+128,Lung Adenocarcinoma,8,0.0434,66,Female,,,Matched,Ever,,7.829757581
+129,Lung Adenocarcinoma,8,0.1631,68,Male,,,Matched,Ever,,7.829757581
+130,Lung Adenocarcinoma,9,0.2106,83,Male,,,Matched,Ever,,8.808477279
+131,Lung Adenocarcinoma,5,0.4148,42,Female,,,Matched,Ever,,4.893598488
+132,Lung Adenocarcinoma,12,0.3024,76,Male,,,Matched,Ever,,11.74463637
+133,Lung Adenocarcinoma,8,0.0011,58,Female,,,Matched,Ever,,7.829757581
+134,Lung Adenocarcinoma,9,0.0122,66,Female,,,Matched,Ever,,8.808477279
+135,Large Cell Neuroendocrine Carcinoma,8,0.014,55,Female,,,Matched,Ever,,7.829757581
+136,Lung Adenocarcinoma,17,0.4912,56,Female,,,Matched,Ever,,16.63823486
+137,Lung Adenocarcinoma,4,0.2532,85,Female,,,Matched,Ever,,3.91487879
+138,Lung Adenocarcinoma,19,0.4615,76,Male,,,Matched,Ever,,18.59567425
+139,Lung Adenocarcinoma,5,0.4111,82,Male,,,Matched,Ever,,4.893598488
+140,Lung Adenocarcinoma,14,0.2774,69,Female,,,Matched,Ever,,13.70207577
+141,Lung Adenocarcinoma,16,0.4541,73,Male,,,Matched,Ever,,15.65951516
+142,Lung Adenocarcinoma,10,0.097,77,Male,,,Matched,Ever,,9.787196976
+143,Lung Adenocarcinoma,3,0.0174,76,Male,,,Matched,Never,,2.936159093
+144,Non-Small Cell Lung Cancer,9,0.001,37,Female,,,Matched,Ever,,8.808477279
+145,Lung Adenocarcinoma,3,0.027,76,Female,,,Matched,Never,,2.936159093
+146,Lung Adenocarcinoma,10,0.4227,68,Female,,,Matched,Ever,,9.787196976
+147,Non-Small Cell Lung Cancer,6,0.0448,69,Female,,,Matched,Ever,,5.872318186
+148,Lung Adenocarcinoma,11,0.2565,50,Female,,,Matched,Ever,,10.76591667
+149,Lung Adenocarcinoma,4,0.0527,71,Female,,,Matched,Never,,3.91487879
+150,Lung Squamous Cell Carcinoma,16,0.0414,74,Female,,,Matched,Ever,,15.65951516
+151,Lung Adenocarcinoma,6,0.7912,57,Male,,,Matched,Ever,,5.872318186
+152,Lung Adenocarcinoma,3,0.2208,66,Male,,,Matched,Ever,,2.936159093
+153,Lung Adenocarcinoma,7,0.0261,77,Female,,,Matched,Ever,,6.851037883
+154,Lung Adenocarcinoma,25,0.4642,67,Female,,,Matched,Ever,,24.46799244
+155,Lung Adenocarcinoma,13,0.0348,65,Female,,,Matched,Never,,12.72335607
+156,Lung Adenocarcinoma,19,0.2907,73,Male,,,Matched,Ever,,18.59567425
+157,Lung Adenocarcinoma,5,0.6861,64,Male,,,Matched,Never,,4.893598488
+158,Large Cell Neuroendocrine Carcinoma,6,0.1934,76,Male,,,Matched,Ever,,5.872318186
+159,Non-Small Cell Lung Cancer,8,0.0653,63,Male,,,Matched,Ever,,7.829757581
+160,Lung Adenocarcinoma,11,0.1098,74,Female,,,Matched,Ever,,10.76591667
+161,Lung Adenocarcinoma,11,0.0425,46,Female,,,Matched,Ever,,10.76591667
+162,Lung Adenocarcinoma,8,0.4893,83,Male,,,Matched,Ever,,7.829757581
+163,Lung Squamous Cell Carcinoma,6,0.3012,74,Male,,,Matched,Ever,,5.872318186
+164,Lung Squamous Cell Carcinoma,12,0.2907,66,Male,,,Matched,Ever,,11.74463637
+165,Lung Adenocarcinoma,10,0.1587,75,Female,,,Matched,Ever,,9.787196976
+166,Lung Adenocarcinoma,4,0.4594,76,Female,,,Matched,Ever,,3.91487879
+167,Lung Adenocarcinoma,22,0.159,80,Female,,,Matched,Ever,,21.53183335
+168,Lung Adenocarcinoma,2,0.2879,62,Male,,,Matched,Ever,,1.957439395
+169,Lung Adenocarcinoma,8,0.0,69,Male,,,Matched,Ever,,7.829757581
+170,Lung Adenocarcinoma,12,0.0048,60,Male,,,Matched,Ever,,11.74463637
+171,Lung Adenocarcinoma,11,0.2201,64,Female,,,Matched,Ever,,9.787196976
+172,Lung Adenocarcinoma,3,0.3587,32,Female,,,Matched,Never,,2.936159093
+173,Lung Adenocarcinoma,9,0.0794,79,Male,,,Matched,Ever,,7.829757581
+174,Lung Squamous Cell Carcinoma,6,0.1817,72,Male,,,Matched,Ever,,5.872318186
+175,Lung Adenocarcinoma,3,0.207,62,Female,,,Matched,Ever,,2.936159093
+176,Non-Small Cell Lung Cancer,2,0.2339,74,Female,,,Matched,Ever,,1.957439395
+177,Lung Adenocarcinoma,12,0.2838,55,Female,,,Matched,Ever,,11.74463637
+178,Lung Adenocarcinoma,3,0.0278,68,Female,,,Matched,Ever,,2.936159093
+179,Lung Adenocarcinoma,6,0.2073,59,Female,,,Matched,Ever,,5.872318186
+180,Lung Adenocarcinoma,2,0.0215,48,Female,,,Matched,Ever,,1.957439395
+181,Lung Adenocarcinoma,23,0.2026,50,Female,,,Matched,Ever,,22.51055305
+182,Lung Adenocarcinoma,33,0.3409,54,Female,,,Matched,Ever,,32.29775002
+183,Lung Adenocarcinoma,3,0.1985,66,Male,,,Matched,Ever,,2.936159093
+184,Lung Squamous Cell Carcinoma,4,0.0397,80,Male,,,Matched,Ever,,3.91487879
+185,Lung Adenocarcinoma,11,0.1464,58,Female,,,Matched,Ever,,10.76591667
+186,Lung Adenocarcinoma,2,0.0179,39,Male,,,Matched,Ever,,1.957439395
+187,Lung Adenocarcinoma,16,0.593,50,Female,,,Matched,Ever,,15.65951516
+188,Lung Adenocarcinoma,4,0.0214,72,Female,,,Matched,Ever,,3.91487879
+189,Lung Squamous Cell Carcinoma,5,0.4381,68,Male,,,Matched,Ever,,4.893598488
+190,Lung Adenocarcinoma,2,0.1806,73,Male,,,Matched,Ever,,1.957439395
+191,Large Cell Neuroendocrine Carcinoma,51,0.5186,67,Male,,,Matched,Ever,,49.91470458
+192,Lung Adenocarcinoma,26,0.1351,78,Male,,,Matched,Ever,,25.44671214
+193,Lung Adenocarcinoma,5,0.0024,51,Male,,,Matched,Ever,,4.893598488
+194,Lung Adenocarcinoma,11,0.0628,55,Female,,,Matched,Ever,,10.76591667
+195,Lung Adenocarcinoma,1,0.0028,42,Female,,,Matched,Never,,0.978719698
+196,Lung Adenocarcinoma,8,0.1142,55,Female,,,Matched,Ever,,7.829757581
+197,Lung Adenocarcinoma,3,0.3396,62,Female,,,Matched,Never,,1.957439395
+198,Large Cell Neuroendocrine Carcinoma,12,0.5585,55,Male,,,Matched,Ever,,11.74463637
+199,Lung Adenocarcinoma,12,0.1651,58,Female,,,Matched,Ever,,11.74463637
+200,Lung Adenocarcinoma,2,0.0353,60,Female,,,Matched,Never,,1.957439395
+201,Lung Adenocarcinoma,11,0.0292,74,Female,,,Matched,Ever,,10.76591667
+202,Lung Squamous Cell Carcinoma,3,0.0017,76,Male,,,Matched,Ever,,2.936159093
+203,Lung Adenocarcinoma,8,0.1079,56,Female,,,Matched,Ever,,7.829757581
+204,Lung Adenocarcinoma,8,0.0681,71,Female,,,Matched,Ever,,7.829757581
+205,Lung Adenocarcinoma,4,0.2567,77,Female,,,Matched,Ever,,3.91487879
+206,Lung Adenocarcinoma,4,0.0023,72,Male,,,Matched,Ever,,3.91487879
+207,Lung Adenocarcinoma,5,0.0214,72,Male,,,Matched,Never,,4.893598488
+208,Lung Adenocarcinoma,14,0.3418,72,Female,,,Matched,Ever,,13.70207577
+209,Lung Adenocarcinoma,40,0.1533,68,Male,,,Matched,Ever,,39.1487879
+210,Lung Adenocarcinoma,6,0.005,66,Male,,,Matched,Ever,,5.872318186
+211,Non-Small Cell Lung Cancer,3,0.0,81,Male,,,Matched,Ever,,2.936159093
+212,Lung Adenocarcinoma,7,0.005,69,Male,,,Matched,Ever,,6.851037883
+213,Lung Adenocarcinoma,34,0.041,54,Male,,,Matched,Ever,,32.29775002
+214,Lung Adenocarcinoma,8,0.0046,59,Female,,,Matched,Ever,,7.829757581
+215,Lung Adenocarcinoma,10,0.3059,57,Male,,,Matched,Ever,,9.787196976
+216,Lung Adenocarcinoma,6,0.1669,50,Female,,,Matched,Never,,5.872318186
+217,Lung Adenocarcinoma,7,0.0772,79,Male,,,Matched,Never,,6.851037883
+218,Lung Squamous Cell Carcinoma,10,0.2469,71,Male,,,Matched,Ever,,9.787196976
+219,Lung Adenocarcinoma,9,0.0024,69,Female,,,Matched,Ever,,7.829757581
+220,Lung Adenocarcinoma,19,0.2699,83,Male,,,Matched,Ever,,17.61695456
+221,Lung Squamous Cell Carcinoma,1,0.0283,74,Male,,,Matched,Ever,,0.864698095
+222,Lung Adenocarcinoma,11,0.383,64,Female,,,Matched,Ever,,9.511679045
+223,Lung Squamous Cell Carcinoma,22,0.3929,65,Female,,,Matched,Ever,,19.02335809
+224,Lung Squamous Cell Carcinoma,17,0.5739,63,Male,,,Matched,Ever,,14.69986761
+225,Non-Small Cell Lung Cancer,13,0.508,65,Female,,,Matched,Ever,,11.24107523
+226,Lung Adenocarcinoma,33,0.0814,83,Male,,,Matched,Ever,,28.53503713
+227,Lung Adenocarcinoma,9,0.4548,69,Female,,,Matched,Ever,,7.782282855
+228,Non-Small Cell Lung Cancer,23,0.2041,67,Male,,,Matched,Ever,,19.88805618
+229,Lung Squamous Cell Carcinoma,6,0.4368,53,Female,,,Matched,Ever,,4.323490475
+230,Lung Adenocarcinoma,5,0.0552,64,Male,,,Matched,Ever,,4.323490475
+231,Non-Small Cell Lung Cancer,6,0.0024,88,Female,,,Matched,Ever,,5.18818857
+232,Lung Adenocarcinoma,2,0.0873,62,Male,,,Matched,Ever,,1.72939619
+233,Lung Adenocarcinoma,7,0.1873,51,Male,,,Matched,Ever,,6.052886665
+234,Lung Adenocarcinoma,26,0.3077,56,Female,,,Matched,Ever,,22.48215047
+235,Lung Squamous Cell Carcinoma,28,0.6241,66,Female,,,Matched,Ever,,24.21154666
+236,Lung Adenocarcinoma,34,0.1663,72,Male,,,Matched,Ever,,28.53503713
+237,Lung Adenocarcinoma,6,0.116,68,Female,,,Matched,Never,,5.18818857
+238,Lung Adenocarcinoma,11,0.1839,76,Male,,,Matched,Ever,,9.511679045
+239,Non-Small Cell Lung Cancer,4,0.0014,88,Female,,,Matched,Ever,,3.45879238
+0,Non-Small Cell Lung Cancer,19,,84,Male,,,Matched,Ex-Smoker,31.0,0.633333333
+1,Non-Small Cell Lung Cancer,1065,,84,Male,,,Matched,Ex-Smoker,31.0,35.63333333
+2,Non-Small Cell Lung Cancer,347,,84,Male,,,Matched,Ex-Smoker,31.0,11.66666667
+3,Non-Small Cell Lung Cancer,438,,84,Male,,,Matched,Ex-Smoker,31.0,14.66666667
+4,Non-Small Cell Lung Cancer,18,,81,Male,,,Matched,Ex-Smoker,8.0,0.6
+5,Non-Small Cell Lung Cancer,64,,81,Male,,,Matched,Ex-Smoker,8.0,2.133333333
+6,Non-Small Cell Lung Cancer,101,,81,Male,,,Matched,Ex-Smoker,8.0,3.366666667
+7,Non-Small Cell Lung Cancer,89,,81,Male,,,Matched,Ex-Smoker,8.0,2.966666667
+8,Non-Small Cell Lung Cancer,16,,78,Female,,,Matched,Never Smoked,,0.533333333
+9,Non-Small Cell Lung Cancer,107,,78,Female,,,Matched,Never Smoked,,3.566666667
+10,Non-Small Cell Lung Cancer,108,,78,Female,,,Matched,Never Smoked,,3.6
+11,Non-Small Cell Lung Cancer,81,,78,Female,,,Matched,Never Smoked,,2.7
+12,Non-Small Cell Lung Cancer,92,,78,Female,,,Matched,Never Smoked,,3.066666667
+13,Non-Small Cell Lung Cancer,107,,78,Female,,,Matched,Never Smoked,,3.6
+14,Non-Small Cell Lung Cancer,24,,69,Female,,,Matched,Ex-Smoker,13.5,0.8
+15,Non-Small Cell Lung Cancer,26,,69,Female,,,Matched,Ex-Smoker,13.5,0.866666667
+16,Non-Small Cell Lung Cancer,105,,69,Female,,,Matched,Ex-Smoker,13.5,3.533333333
+17,Non-Small Cell Lung Cancer,70,,69,Female,,,Matched,Ex-Smoker,13.5,2.366666667
+18,Non-Small Cell Lung Cancer,112,,69,Female,,,Matched,Ex-Smoker,13.5,3.766666667
+19,Non-Small Cell Lung Cancer,82,,69,Female,,,Matched,Ex-Smoker,13.5,2.733333333
+20,Non-Small Cell Lung Cancer,18,,74,Female,,,Matched,Ex-Smoker,55.0,0.6
+21,Non-Small Cell Lung Cancer,448,,74,Female,,,Matched,Ex-Smoker,55.0,15.0
+22,Non-Small Cell Lung Cancer,492,,74,Female,,,Matched,Ex-Smoker,55.0,16.46666667
+23,Non-Small Cell Lung Cancer,765,,74,Female,,,Matched,Ex-Smoker,55.0,25.6
+24,Non-Small Cell Lung Cancer,509,,74,Female,,,Matched,Ex-Smoker,55.0,17.1
+25,Non-Small Cell Lung Cancer,18,,66,Male,,,Matched,Recent Ex-Smoker,,0.6
+26,Non-Small Cell Lung Cancer,701,,66,Male,,,Matched,Recent Ex-Smoker,,23.53333333
+27,Non-Small Cell Lung Cancer,717,,66,Male,,,Matched,Recent Ex-Smoker,,24.06666667
+28,Non-Small Cell Lung Cancer,18,,69,Male,,,Matched,Ex-Smoker,0.45,0.6
+29,Non-Small Cell Lung Cancer,34,,69,Male,,,Matched,Ex-Smoker,0.45,1.133333333
+30,Non-Small Cell Lung Cancer,42,,69,Male,,,Matched,Ex-Smoker,0.45,1.4
+31,Non-Small Cell Lung Cancer,18,,72,Male,,,Matched,Ex-Smoker,74.0,0.6
+32,Non-Small Cell Lung Cancer,102,,72,Male,,,Matched,Ex-Smoker,74.0,3.4
+33,Non-Small Cell Lung Cancer,148,,72,Male,,,Matched,Ex-Smoker,74.0,4.9
+34,Non-Small Cell Lung Cancer,29,,55,Male,,,Matched,Recent Ex-Smoker,10.25,0.966666667
+35,Non-Small Cell Lung Cancer,30,,55,Male,,,Matched,Recent Ex-Smoker,10.25,1.0
+36,Non-Small Cell Lung Cancer,185,,55,Male,,,Matched,Recent Ex-Smoker,10.25,6.2
+37,Non-Small Cell Lung Cancer,185,,55,Male,,,Matched,Recent Ex-Smoker,10.25,6.233333333
+38,Non-Small Cell Lung Cancer,206,,55,Male,,,Matched,Recent Ex-Smoker,10.25,6.933333333
+39,Non-Small Cell Lung Cancer,197,,55,Male,,,Matched,Recent Ex-Smoker,10.25,6.633333333
+40,Non-Small Cell Lung Cancer,18,,68,Male,,,Matched,Never Smoked,,0.6
+41,Non-Small Cell Lung Cancer,58,,68,Male,,,Matched,Never Smoked,,1.966666667
+42,Non-Small Cell Lung Cancer,54,,68,Male,,,Matched,Never Smoked,,1.833333333
+43,Non-Small Cell Lung Cancer,19,,71,Female,,,Matched,Ex-Smoker,35.0,0.633333333
+44,Non-Small Cell Lung Cancer,255,,71,Female,,,Matched,Ex-Smoker,35.0,8.466666667
+45,Non-Small Cell Lung Cancer,295,,71,Female,,,Matched,Ex-Smoker,35.0,9.8
+46,Non-Small Cell Lung Cancer,246,,71,Female,,,Matched,Ex-Smoker,35.0,8.166666667
+47,Non-Small Cell Lung Cancer,17,,65,Male,,,Matched,Ex-Smoker,14.25,0.566666667
+48,Non-Small Cell Lung Cancer,66,,65,Male,,,Matched,Ex-Smoker,14.25,2.2
+49,Non-Small Cell Lung Cancer,63,,65,Male,,,Matched,Ex-Smoker,14.25,2.1
+50,Non-Small Cell Lung Cancer,77,,67,Male,,,Matched,Ex-Smoker,26.25,2.566666667
+51,Non-Small Cell Lung Cancer,72,,67,Male,,,Matched,Ex-Smoker,26.25,2.4
+52,Non-Small Cell Lung Cancer,27,,67,Male,,,Matched,Ex-Smoker,26.25,0.933333333
+53,Non-Small Cell Lung Cancer,27,,67,Male,,,Matched,Ex-Smoker,26.25,0.9
+54,Non-Small Cell Lung Cancer,83,,67,Male,,,Matched,Ex-Smoker,26.25,2.8
+55,Non-Small Cell Lung Cancer,105,,67,Male,,,Matched,Ex-Smoker,26.25,3.533333333
+56,Non-Small Cell Lung Cancer,81,,67,Male,,,Matched,Ex-Smoker,26.25,2.7
+57,Non-Small Cell Lung Cancer,15,,66,Male,,,Matched,Never Smoked,,0.5
+58,Non-Small Cell Lung Cancer,28,,66,Male,,,Matched,Never Smoked,,0.933333333
+59,Non-Small Cell Lung Cancer,24,,66,Male,,,Matched,Never Smoked,,0.8
+60,Non-Small Cell Lung Cancer,17,,73,Female,,,Matched,Never Smoked,,0.566666667
+61,Non-Small Cell Lung Cancer,76,,73,Female,,,Matched,Never Smoked,,2.533333333
+62,Non-Small Cell Lung Cancer,52,,73,Female,,,Matched,Never Smoked,,1.733333333
+63,Non-Small Cell Lung Cancer,27,,70,Male,,,Matched,Ex-Smoker,73.5,0.9
+64,Non-Small Cell Lung Cancer,30,,70,Male,,,Matched,Ex-Smoker,73.5,1.0
+65,Non-Small Cell Lung Cancer,1004,,70,Male,,,Matched,Ex-Smoker,73.5,33.53333333
+66,Non-Small Cell Lung Cancer,933,,70,Male,,,Matched,Ex-Smoker,73.5,31.16666667
+67,Non-Small Cell Lung Cancer,19,,77,Female,,,Matched,Recent Ex-Smoker,42.0,0.633333333
+68,Non-Small Cell Lung Cancer,447,,77,Female,,,Matched,Recent Ex-Smoker,42.0,14.93333333
+69,Non-Small Cell Lung Cancer,550,,77,Female,,,Matched,Recent Ex-Smoker,42.0,18.36666667
+70,Non-Small Cell Lung Cancer,526,,77,Female,,,Matched,Recent Ex-Smoker,42.0,17.53333333
+71,Non-Small Cell Lung Cancer,600,,77,Female,,,Matched,Recent Ex-Smoker,42.0,20.06666667
+72,Non-Small Cell Lung Cancer,17,,59,Male,,,Matched,Ex-Smoker,27.75,0.566666667
+73,Non-Small Cell Lung Cancer,233,,59,Male,,,Matched,Ex-Smoker,27.75,7.8
+74,Non-Small Cell Lung Cancer,280,,59,Male,,,Matched,Ex-Smoker,27.75,9.4
+75,Non-Small Cell Lung Cancer,226,,59,Male,,,Matched,Ex-Smoker,27.75,7.6
+76,Non-Small Cell Lung Cancer,225,,59,Male,,,Matched,Ex-Smoker,27.75,7.566666667
+77,Non-Small Cell Lung Cancer,14,,54,Female,,,Matched,Never Smoked,,0.433333333
+78,Non-Small Cell Lung Cancer,42,,54,Female,,,Matched,Never Smoked,,1.366666667
+79,Non-Small Cell Lung Cancer,48,,54,Female,,,Matched,Never Smoked,,1.566666667
+80,Non-Small Cell Lung Cancer,20,,83,Male,,,Matched,Ex-Smoker,102.0,0.666666667
+81,Non-Small Cell Lung Cancer,1425,,83,Male,,,Matched,Ex-Smoker,102.0,47.46666667
+82,Non-Small Cell Lung Cancer,1252,,83,Male,,,Matched,Ex-Smoker,102.0,41.66666667
+83,Non-Small Cell Lung Cancer,25,,83,Female,,,Matched,Never Smoked,,0.833333333
+84,Non-Small Cell Lung Cancer,25,,83,Female,,,Matched,Never Smoked,,0.833333333
+85,Non-Small Cell Lung Cancer,84,,83,Female,,,Matched,Never Smoked,,2.833333333
+86,Non-Small Cell Lung Cancer,81,,83,Female,,,Matched,Never Smoked,,2.766666667
+87,Non-Small Cell Lung Cancer,16,,65,Female,,,Matched,Ex-Smoker,32.25,0.533333333
+88,Non-Small Cell Lung Cancer,122,,65,Female,,,Matched,Ex-Smoker,32.25,4.066666667
+89,Non-Small Cell Lung Cancer,99,,65,Female,,,Matched,Ex-Smoker,32.25,3.3
+90,Non-Small Cell Lung Cancer,25,,68,Male,,,Matched,Ex-Smoker,39.0,0.833333333
+91,Non-Small Cell Lung Cancer,26,,68,Male,,,Matched,Ex-Smoker,39.0,0.866666667
+92,Non-Small Cell Lung Cancer,150,,68,Male,,,Matched,Ex-Smoker,39.0,5.0
+93,Non-Small Cell Lung Cancer,134,,68,Male,,,Matched,Ex-Smoker,39.0,4.466666667
+94,Non-Small Cell Lung Cancer,126,,68,Male,,,Matched,Ex-Smoker,39.0,4.2
+95,Non-Small Cell Lung Cancer,128,,68,Male,,,Matched,Ex-Smoker,39.0,4.266666667
+96,Non-Small Cell Lung Cancer,18,,68,Male,,,Matched,Recent Ex-Smoker,65.0,0.6
+97,Non-Small Cell Lung Cancer,379,,68,Male,,,Matched,Recent Ex-Smoker,65.0,12.7
+98,Non-Small Cell Lung Cancer,402,,68,Male,,,Matched,Recent Ex-Smoker,65.0,13.43333333
+99,Non-Small Cell Lung Cancer,389,,68,Male,,,Matched,Recent Ex-Smoker,65.0,13.03333333
+100,Non-Small Cell Lung Cancer,403,,68,Male,,,Matched,Recent Ex-Smoker,65.0,13.5
+101,Non-Small Cell Lung Cancer,348,,68,Male,,,Matched,Recent Ex-Smoker,65.0,11.66666667
+102,Non-Small Cell Lung Cancer,22,,52,Male,,,Matched,Recent Ex-Smoker,55.5,0.733333333
+103,Non-Small Cell Lung Cancer,216,,52,Male,,,Matched,Recent Ex-Smoker,55.5,7.233333333
+104,Non-Small Cell Lung Cancer,202,,52,Male,,,Matched,Recent Ex-Smoker,55.5,6.733333333
+105,Non-Small Cell Lung Cancer,203,,52,Male,,,Matched,Recent Ex-Smoker,55.5,6.8
+106,Non-Small Cell Lung Cancer,17,,67,Female,,,Matched,Ex-Smoker,0.05,0.6
+107,Non-Small Cell Lung Cancer,79,,67,Female,,,Matched,Ex-Smoker,0.05,2.666666667
+108,Non-Small Cell Lung Cancer,78,,67,Female,,,Matched,Ex-Smoker,0.05,2.633333333
+109,Non-Small Cell Lung Cancer,13,,58,Female,,,Matched,Recent Ex-Smoker,30.0,0.433333333
+110,Non-Small Cell Lung Cancer,380,,58,Female,,,Matched,Recent Ex-Smoker,30.0,12.73333333
+111,Non-Small Cell Lung Cancer,480,,58,Female,,,Matched,Recent Ex-Smoker,30.0,16.1
+112,Non-Small Cell Lung Cancer,368,,58,Female,,,Matched,Recent Ex-Smoker,30.0,12.33333333
+113,Non-Small Cell Lung Cancer,17,,78,Female,,,Matched,Ex-Smoker,17.5,0.566666667
+114,Non-Small Cell Lung Cancer,43,,78,Female,,,Matched,Ex-Smoker,17.5,1.433333333
+115,Non-Small Cell Lung Cancer,44,,78,Female,,,Matched,Ex-Smoker,17.5,1.466666667
+116,Non-Small Cell Lung Cancer,28,,56,Male,,,Matched,Ex-Smoker,35.0,0.933333333
+117,Non-Small Cell Lung Cancer,28,,56,Male,,,Matched,Ex-Smoker,35.0,0.933333333
+118,Non-Small Cell Lung Cancer,142,,56,Male,,,Matched,Ex-Smoker,35.0,4.733333333
+119,Non-Small Cell Lung Cancer,135,,56,Male,,,Matched,Ex-Smoker,35.0,4.5
+120,Non-Small Cell Lung Cancer,138,,56,Male,,,Matched,Ex-Smoker,35.0,4.6
+121,Non-Small Cell Lung Cancer,149,,56,Male,,,Matched,Ex-Smoker,35.0,4.966666667
+122,Non-Small Cell Lung Cancer,159,,56,Male,,,Matched,Ex-Smoker,35.0,5.3
+123,Non-Small Cell Lung Cancer,150,,56,Male,,,Matched,Ex-Smoker,35.0,5.0
+124,Non-Small Cell Lung Cancer,151,,56,Male,,,Matched,Ex-Smoker,35.0,5.033333333
+125,Non-Small Cell Lung Cancer,17,,75,Male,,,Matched,Ex-Smoker,60.0,0.533333333
+126,Non-Small Cell Lung Cancer,122,,75,Male,,,Matched,Ex-Smoker,60.0,4.033333333
+127,Non-Small Cell Lung Cancer,125,,75,Male,,,Matched,Ex-Smoker,60.0,4.133333333
+128,Non-Small Cell Lung Cancer,131,,75,Male,,,Matched,Ex-Smoker,60.0,4.333333333
+129,Non-Small Cell Lung Cancer,17,,59,Male,,,Matched,Recent Ex-Smoker,30.0,0.566666667
+130,Non-Small Cell Lung Cancer,457,,59,Male,,,Matched,Recent Ex-Smoker,30.0,15.4
+131,Non-Small Cell Lung Cancer,465,,59,Male,,,Matched,Recent Ex-Smoker,30.0,15.66666667
+132,Non-Small Cell Lung Cancer,447,,59,Male,,,Matched,Recent Ex-Smoker,30.0,15.06666667
+133,Non-Small Cell Lung Cancer,436,,73,Male,,,Matched,Recent Ex-Smoker,58.0,14.63333333
+134,Non-Small Cell Lung Cancer,455,,73,Male,,,Matched,Recent Ex-Smoker,58.0,15.26666667
+135,Non-Small Cell Lung Cancer,447,,73,Male,,,Matched,Recent Ex-Smoker,58.0,15.0
+136,Non-Small Cell Lung Cancer,469,,73,Male,,,Matched,Recent Ex-Smoker,58.0,15.76666667
+137,Non-Small Cell Lung Cancer,11,,68,Male,,,Matched,Never Smoked,,0.366666667
+138,Non-Small Cell Lung Cancer,29,,68,Male,,,Matched,Never Smoked,,0.966666667
+139,Non-Small Cell Lung Cancer,32,,68,Male,,,Matched,Never Smoked,,1.066666667
+140,Non-Small Cell Lung Cancer,17,,68,Female,,,Matched,Ex-Smoker,33.0,0.566666667
+141,Non-Small Cell Lung Cancer,365,,68,Female,,,Matched,Ex-Smoker,33.0,12.23333333
+142,Non-Small Cell Lung Cancer,410,,68,Female,,,Matched,Ex-Smoker,33.0,13.7
+143,Non-Small Cell Lung Cancer,388,,68,Female,,,Matched,Ex-Smoker,33.0,13.0
+144,Non-Small Cell Lung Cancer,92,,75,Male,,,Matched,Ex-Smoker,28.0,3.066666667
+145,Non-Small Cell Lung Cancer,24,,75,Male,,,Matched,Ex-Smoker,28.0,0.8
+146,Non-Small Cell Lung Cancer,25,,75,Male,,,Matched,Ex-Smoker,28.0,0.833333333
+147,Non-Small Cell Lung Cancer,87,,75,Male,,,Matched,Ex-Smoker,28.0,2.9
+148,Non-Small Cell Lung Cancer,84,,75,Male,,,Matched,Ex-Smoker,28.0,2.8
+149,Non-Small Cell Lung Cancer,85,,75,Male,,,Matched,Ex-Smoker,28.0,2.833333333
+150,Non-Small Cell Lung Cancer,25,,64,Female,,,Matched,Recent Ex-Smoker,33.75,0.833333333
+151,Non-Small Cell Lung Cancer,26,,64,Female,,,Matched,Recent Ex-Smoker,33.75,0.866666667
+152,Non-Small Cell Lung Cancer,95,,64,Female,,,Matched,Recent Ex-Smoker,33.75,3.2
+153,Non-Small Cell Lung Cancer,98,,64,Female,,,Matched,Recent Ex-Smoker,33.75,3.3
+154,Non-Small Cell Lung Cancer,99,,64,Female,,,Matched,Recent Ex-Smoker,33.75,3.333333333
+155,Non-Small Cell Lung Cancer,96,,64,Female,,,Matched,Recent Ex-Smoker,33.75,3.233333333
+156,Non-Small Cell Lung Cancer,28,,83,Male,,,Matched,Ex-Smoker,9.75,0.933333333
+157,Non-Small Cell Lung Cancer,28,,83,Male,,,Matched,Ex-Smoker,9.75,0.933333333
+158,Non-Small Cell Lung Cancer,232,,83,Male,,,Matched,Ex-Smoker,9.75,7.766666667
+159,Non-Small Cell Lung Cancer,246,,83,Male,,,Matched,Ex-Smoker,9.75,8.266666667
+160,Non-Small Cell Lung Cancer,248,,83,Male,,,Matched,Ex-Smoker,9.75,8.266666667
+161,Non-Small Cell Lung Cancer,240,,83,Male,,,Matched,Ex-Smoker,9.75,8.033333333
+162,Non-Small Cell Lung Cancer,246,,83,Male,,,Matched,Ex-Smoker,9.75,8.2
+163,Non-Small Cell Lung Cancer,15,,81,Female,,,Matched,Ex-Smoker,32.0,0.5
+164,Non-Small Cell Lung Cancer,62,,81,Female,,,Matched,Ex-Smoker,32.0,2.066666667
+165,Non-Small Cell Lung Cancer,55,,81,Female,,,Matched,Ex-Smoker,32.0,1.833333333
+166,Non-Small Cell Lung Cancer,21,,70,Male,,,Matched,Ex-Smoker,52.0,0.7
+167,Non-Small Cell Lung Cancer,499,,70,Male,,,Matched,Ex-Smoker,52.0,16.63333333
+168,Non-Small Cell Lung Cancer,629,,70,Male,,,Matched,Ex-Smoker,52.0,21.0
+169,Non-Small Cell Lung Cancer,492,,70,Male,,,Matched,Ex-Smoker,52.0,16.4
+170,Non-Small Cell Lung Cancer,18,,62,Female,,,Matched,Ex-Smoker,40.0,0.6
+171,Non-Small Cell Lung Cancer,160,,62,Female,,,Matched,Ex-Smoker,40.0,5.4
+172,Non-Small Cell Lung Cancer,160,,62,Female,,,Matched,Ex-Smoker,40.0,5.4
+173,Non-Small Cell Lung Cancer,24,,72,Male,,,Matched,Ex-Smoker,62.0,0.8
+174,Non-Small Cell Lung Cancer,25,,72,Male,,,Matched,Ex-Smoker,62.0,0.833333333
+175,Non-Small Cell Lung Cancer,110,,72,Male,,,Matched,Ex-Smoker,62.0,3.7
+176,Non-Small Cell Lung Cancer,109,,72,Male,,,Matched,Ex-Smoker,62.0,3.666666667
+177,Non-Small Cell Lung Cancer,107,,72,Male,,,Matched,Ex-Smoker,62.0,3.6
+178,Non-Small Cell Lung Cancer,108,,72,Male,,,Matched,Ex-Smoker,62.0,3.633333333
+179,Non-Small Cell Lung Cancer,15,,68,Male,,,Matched,Never Smoked,,0.5
+180,Non-Small Cell Lung Cancer,44,,68,Male,,,Matched,Never Smoked,,1.5
+181,Non-Small Cell Lung Cancer,34,,68,Male,,,Matched,Never Smoked,,1.133333333
+182,Non-Small Cell Lung Cancer,17,,68,Male,,,Matched,Ex-Smoker,4.0,0.566666667
+183,Non-Small Cell Lung Cancer,56,,68,Male,,,Matched,Ex-Smoker,4.0,1.866666667
+184,Non-Small Cell Lung Cancer,49,,68,Male,,,Matched,Ex-Smoker,4.0,1.633333333
+185,Non-Small Cell Lung Cancer,27,,59,Female,,,Matched,Current Smoker,33.75,0.933333333
+186,Non-Small Cell Lung Cancer,28,,59,Female,,,Matched,Current Smoker,33.75,0.966666667
+187,Non-Small Cell Lung Cancer,214,,59,Female,,,Matched,Current Smoker,33.75,7.333333333
+188,Non-Small Cell Lung Cancer,195,,59,Female,,,Matched,Current Smoker,33.75,6.666666667
+189,Non-Small Cell Lung Cancer,27,,85,Male,,,Matched,Ex-Smoker,11.0,0.9
+190,Non-Small Cell Lung Cancer,28,,85,Male,,,Matched,Ex-Smoker,11.0,0.933333333
+191,Non-Small Cell Lung Cancer,81,,85,Male,,,Matched,Ex-Smoker,11.0,2.733333333
+192,Non-Small Cell Lung Cancer,79,,85,Male,,,Matched,Ex-Smoker,11.0,2.666666667
+193,Non-Small Cell Lung Cancer,87,,85,Male,,,Matched,Ex-Smoker,11.0,2.933333333
+194,Non-Small Cell Lung Cancer,17,,61,Female,,,Matched,Ex-Smoker,15.0,0.566666667
+195,Non-Small Cell Lung Cancer,119,,61,Female,,,Matched,Ex-Smoker,15.0,4.0
+196,Non-Small Cell Lung Cancer,113,,61,Female,,,Matched,Ex-Smoker,15.0,3.8
+197,Non-Small Cell Lung Cancer,117,,61,Female,,,Matched,Ex-Smoker,15.0,3.933333333
+198,Non-Small Cell Lung Cancer,120,,61,Female,,,Matched,Ex-Smoker,15.0,4.033333333
+199,Non-Small Cell Lung Cancer,18,,72,Female,,,Matched,Ex-Smoker,33.75,0.6
+200,Non-Small Cell Lung Cancer,137,,72,Female,,,Matched,Ex-Smoker,33.75,4.566666667
+201,Non-Small Cell Lung Cancer,140,,72,Female,,,Matched,Ex-Smoker,33.75,4.666666667
+202,Non-Small Cell Lung Cancer,15,,76,Female,,,Matched,Recent Ex-Smoker,49.0,0.5
+203,Non-Small Cell Lung Cancer,219,,76,Female,,,Matched,Recent Ex-Smoker,49.0,7.433333333
+204,Non-Small Cell Lung Cancer,210,,76,Female,,,Matched,Recent Ex-Smoker,49.0,7.133333333
+205,Non-Small Cell Lung Cancer,214,,76,Female,,,Matched,Recent Ex-Smoker,49.0,7.266666667
+206,Non-Small Cell Lung Cancer,17,,66,Female,,,Matched,Recent Ex-Smoker,48.0,0.566666667
+207,Non-Small Cell Lung Cancer,522,,66,Female,,,Matched,Recent Ex-Smoker,48.0,17.46666667
+208,Non-Small Cell Lung Cancer,504,,66,Female,,,Matched,Recent Ex-Smoker,48.0,16.86666667
+209,Non-Small Cell Lung Cancer,18,,55,Male,,,Matched,Current Smoker,42.0,0.6
+210,Non-Small Cell Lung Cancer,103,,55,Male,,,Matched,Current Smoker,42.0,3.433333333
+211,Non-Small Cell Lung Cancer,95,,55,Male,,,Matched,Current Smoker,42.0,3.166666667
+212,Non-Small Cell Lung Cancer,99,,55,Male,,,Matched,Current Smoker,42.0,3.3
+213,Non-Small Cell Lung Cancer,98,,55,Male,,,Matched,Current Smoker,42.0,3.266666667
+214,Non-Small Cell Lung Cancer,97,,55,Male,,,Matched,Current Smoker,42.0,3.233333333
+215,Non-Small Cell Lung Cancer,26,,76,Male,,,Matched,Ex-Smoker,73.5,0.866666667
+216,Non-Small Cell Lung Cancer,28,,76,Male,,,Matched,Ex-Smoker,73.5,0.933333333
+217,Non-Small Cell Lung Cancer,286,,76,Male,,,Matched,Ex-Smoker,73.5,9.533333333
+218,Non-Small Cell Lung Cancer,282,,76,Male,,,Matched,Ex-Smoker,73.5,9.4
+219,Non-Small Cell Lung Cancer,290,,76,Male,,,Matched,Ex-Smoker,73.5,9.666666667
+220,Non-Small Cell Lung Cancer,28,,59,Female,,,Matched,Ex-Smoker,35.0,0.933333333
+221,Non-Small Cell Lung Cancer,28,,59,Female,,,Matched,Ex-Smoker,35.0,0.933333333
+222,Non-Small Cell Lung Cancer,604,,59,Female,,,Matched,Ex-Smoker,35.0,20.26666667
+223,Non-Small Cell Lung Cancer,568,,59,Female,,,Matched,Ex-Smoker,35.0,19.06666667
+224,Non-Small Cell Lung Cancer,581,,59,Female,,,Matched,Ex-Smoker,35.0,19.5
+225,Non-Small Cell Lung Cancer,603,,59,Female,,,Matched,Ex-Smoker,35.0,20.23333333
+226,Non-Small Cell Lung Cancer,20,,68,Male,,,Matched,Ex-Smoker,74.0,0.666666667
+227,Non-Small Cell Lung Cancer,992,,68,Male,,,Matched,Ex-Smoker,74.0,33.26666667
+228,Non-Small Cell Lung Cancer,1033,,68,Male,,,Matched,Ex-Smoker,74.0,34.66666667
+229,Non-Small Cell Lung Cancer,90,,76,Female,,,Matched,Never Smoked,,3.033333333
+230,Non-Small Cell Lung Cancer,99,,76,Female,,,Matched,Never Smoked,,3.333333333
+231,Non-Small Cell Lung Cancer,17,,54,Male,,,Matched,Recent Ex-Smoker,20.0,0.566666667
+232,Non-Small Cell Lung Cancer,886,,54,Male,,,Matched,Recent Ex-Smoker,20.0,29.53333333
+233,Non-Small Cell Lung Cancer,887,,54,Male,,,Matched,Recent Ex-Smoker,20.0,29.6
+234,Non-Small Cell Lung Cancer,920,,54,Male,,,Matched,Recent Ex-Smoker,20.0,30.66666667
+235,Non-Small Cell Lung Cancer,928,,54,Male,,,Matched,Recent Ex-Smoker,20.0,30.93333333
+236,Non-Small Cell Lung Cancer,21,,71,Female,,,Matched,Ex-Smoker,90.0,0.7
+237,Non-Small Cell Lung Cancer,158,,71,Female,,,Matched,Ex-Smoker,90.0,5.333333333
+238,Non-Small Cell Lung Cancer,169,,71,Female,,,Matched,Ex-Smoker,90.0,5.7
+239,Non-Small Cell Lung Cancer,181,,71,Female,,,Matched,Ex-Smoker,90.0,6.1
+240,Non-Small Cell Lung Cancer,29,,67,Female,,,Matched,Recent Ex-Smoker,53.0,0.966666667
+241,Non-Small Cell Lung Cancer,29,,67,Female,,,Matched,Recent Ex-Smoker,53.0,0.966666667
+242,Non-Small Cell Lung Cancer,550,,67,Female,,,Matched,Recent Ex-Smoker,53.0,18.56666667
+243,Non-Small Cell Lung Cancer,583,,67,Female,,,Matched,Recent Ex-Smoker,53.0,19.63333333
+244,Non-Small Cell Lung Cancer,18,,74,Male,,,Matched,Ex-Smoker,34.0,0.6
+245,Non-Small Cell Lung Cancer,68,,74,Male,,,Matched,Ex-Smoker,34.0,2.266666667
+246,Non-Small Cell Lung Cancer,68,,74,Male,,,Matched,Ex-Smoker,34.0,2.266666667
+247,Non-Small Cell Lung Cancer,9,,79,Female,,,Matched,Never Smoked,,0.3
+248,Non-Small Cell Lung Cancer,33,,79,Female,,,Matched,Never Smoked,,1.1
+249,Non-Small Cell Lung Cancer,33,,79,Female,,,Matched,Never Smoked,,1.1
+250,Non-Small Cell Lung Cancer,1118,,48,Female,,,Matched,Recent Ex-Smoker,22.5,37.46666667
+251,Non-Small Cell Lung Cancer,1089,,48,Female,,,Matched,Recent Ex-Smoker,22.5,36.5
+252,Non-Small Cell Lung Cancer,16,,82,Male,,,Matched,Ex-Smoker,40.0,0.533333333
+253,Non-Small Cell Lung Cancer,132,,82,Male,,,Matched,Ex-Smoker,40.0,4.4
+254,Non-Small Cell Lung Cancer,132,,82,Male,,,Matched,Ex-Smoker,40.0,4.4
+255,Lung Squamous Cell Carcinoma,19,,57,Male,,,Matched,Recent Ex-Smoker,19.0,0.633333333
+256,Lung Squamous Cell Carcinoma,21,,57,Male,,,Matched,Recent Ex-Smoker,19.0,0.7
+257,Lung Squamous Cell Carcinoma,238,,57,Male,,,Matched,Recent Ex-Smoker,19.0,8.0
+258,Lung Squamous Cell Carcinoma,271,,57,Male,,,Matched,Recent Ex-Smoker,19.0,9.1
+259,Lung Squamous Cell Carcinoma,242,,57,Male,,,Matched,Recent Ex-Smoker,19.0,8.1
+260,Lung Squamous Cell Carcinoma,200,,57,Male,,,Matched,Recent Ex-Smoker,19.0,6.7
+261,Lung Squamous Cell Carcinoma,207,,57,Male,,,Matched,Recent Ex-Smoker,19.0,6.966666667
+262,Lung Squamous Cell Carcinoma,252,,57,Male,,,Matched,Recent Ex-Smoker,19.0,8.533333333
+263,Lung Squamous Cell Carcinoma,205,,57,Male,,,Matched,Recent Ex-Smoker,19.0,6.9
+264,Lung Squamous Cell Carcinoma,73,,65,Male,,,Matched,Current Smoker,57.5,2.4
+265,Lung Squamous Cell Carcinoma,75,,65,Male,,,Matched,Current Smoker,57.5,2.466666667
+266,Lung Squamous Cell Carcinoma,129,,65,Male,,,Matched,Current Smoker,57.5,4.333333333
+267,Lung Squamous Cell Carcinoma,183,,65,Male,,,Matched,Current Smoker,57.5,6.166666667
+268,Lung Squamous Cell Carcinoma,193,,65,Male,,,Matched,Current Smoker,57.5,6.5
+269,Lung Squamous Cell Carcinoma,188,,65,Male,,,Matched,Current Smoker,57.5,6.333333333
+270,Lung Squamous Cell Carcinoma,187,,65,Male,,,Matched,Current Smoker,57.5,6.3
+271,Lung Squamous Cell Carcinoma,15,,68,Male,,,Matched,Current Smoker,26.5,0.5
+272,Lung Squamous Cell Carcinoma,361,,68,Male,,,Matched,Current Smoker,26.5,12.13333333
+273,Lung Squamous Cell Carcinoma,297,,68,Male,,,Matched,Current Smoker,26.5,10.0
+274,Lung Squamous Cell Carcinoma,19,,76,Male,,,Matched,Ex-Smoker,22.5,0.633333333
+275,Lung Squamous Cell Carcinoma,19,,76,Male,,,Matched,Ex-Smoker,22.5,0.633333333
+276,Lung Squamous Cell Carcinoma,295,,76,Male,,,Matched,Ex-Smoker,22.5,9.866666667
+277,Lung Squamous Cell Carcinoma,291,,76,Male,,,Matched,Ex-Smoker,22.5,9.7
+278,Lung Squamous Cell Carcinoma,407,,76,Male,,,Matched,Ex-Smoker,22.5,13.6
+279,Lung Squamous Cell Carcinoma,362,,76,Male,,,Matched,Ex-Smoker,22.5,12.06666667
+280,Lung Squamous Cell Carcinoma,374,,76,Male,,,Matched,Ex-Smoker,22.5,12.46666667
+281,Lung Squamous Cell Carcinoma,320,,76,Male,,,Matched,Ex-Smoker,22.5,10.66666667
+282,Lung Squamous Cell Carcinoma,256,,76,Male,,,Matched,Ex-Smoker,22.5,8.533333333
+283,Lung Squamous Cell Carcinoma,16,,78,Male,,,Matched,Recent Ex-Smoker,60.0,0.533333333
+284,Lung Squamous Cell Carcinoma,240,,78,Male,,,Matched,Recent Ex-Smoker,60.0,7.966666667
+285,Lung Squamous Cell Carcinoma,249,,78,Male,,,Matched,Recent Ex-Smoker,60.0,8.266666667
+286,Lung Squamous Cell Carcinoma,278,,78,Male,,,Matched,Recent Ex-Smoker,60.0,9.233333333
+287,Lung Squamous Cell Carcinoma,246,,78,Male,,,Matched,Recent Ex-Smoker,60.0,8.166666667
+288,Lung Squamous Cell Carcinoma,17,,63,Male,,,Matched,Recent Ex-Smoker,50.0,0.566666667
+289,Lung Squamous Cell Carcinoma,195,,63,Male,,,Matched,Recent Ex-Smoker,50.0,6.6
+290,Lung Squamous Cell Carcinoma,179,,63,Male,,,Matched,Recent Ex-Smoker,50.0,6.066666667
+291,Lung Squamous Cell Carcinoma,19,,68,Female,,,Matched,Recent Ex-Smoker,106.0,0.633333333
+292,Lung Squamous Cell Carcinoma,364,,68,Female,,,Matched,Recent Ex-Smoker,106.0,12.26666667
+293,Lung Squamous Cell Carcinoma,395,,68,Female,,,Matched,Recent Ex-Smoker,106.0,13.26666667
+294,Lung Squamous Cell Carcinoma,353,,68,Female,,,Matched,Recent Ex-Smoker,106.0,11.9
+295,Lung Squamous Cell Carcinoma,366,,68,Female,,,Matched,Recent Ex-Smoker,106.0,12.3
+296,Lung Squamous Cell Carcinoma,17,,73,Female,,,Matched,Ex-Smoker,44.0,0.566666667
+297,Lung Squamous Cell Carcinoma,373,,73,Female,,,Matched,Ex-Smoker,44.0,12.46666667
+298,Lung Squamous Cell Carcinoma,405,,73,Female,,,Matched,Ex-Smoker,44.0,13.53333333
+299,Lung Squamous Cell Carcinoma,405,,73,Female,,,Matched,Ex-Smoker,44.0,13.53333333
+300,Lung Squamous Cell Carcinoma,337,,73,Female,,,Matched,Ex-Smoker,44.0,11.33333333
+301,Lung Squamous Cell Carcinoma,349,,73,Female,,,Matched,Ex-Smoker,44.0,11.63333333
+302,Lung Squamous Cell Carcinoma,17,,56,Male,,,Matched,Recent Ex-Smoker,41.0,0.566666667
+303,Lung Squamous Cell Carcinoma,138,,56,Male,,,Matched,Recent Ex-Smoker,41.0,4.633333333
+304,Lung Squamous Cell Carcinoma,135,,56,Male,,,Matched,Recent Ex-Smoker,41.0,4.533333333
+305,Lung Squamous Cell Carcinoma,143,,56,Male,,,Matched,Recent Ex-Smoker,41.0,4.766666667
+306,Lung Squamous Cell Carcinoma,148,,56,Male,,,Matched,Recent Ex-Smoker,41.0,4.966666667
+307,Lung Squamous Cell Carcinoma,140,,56,Male,,,Matched,Recent Ex-Smoker,41.0,4.7
+308,Lung Squamous Cell Carcinoma,19,,66,Male,,,Matched,Ex-Smoker,80.0,0.633333333
+309,Lung Squamous Cell Carcinoma,19,,66,Male,,,Matched,Ex-Smoker,80.0,0.633333333
+310,Lung Squamous Cell Carcinoma,263,,66,Male,,,Matched,Ex-Smoker,80.0,8.766666667
+311,Lung Squamous Cell Carcinoma,250,,66,Male,,,Matched,Ex-Smoker,80.0,8.333333333
+312,Lung Squamous Cell Carcinoma,266,,66,Male,,,Matched,Ex-Smoker,80.0,8.866666667
+313,Lung Squamous Cell Carcinoma,262,,66,Male,,,Matched,Ex-Smoker,80.0,8.733333333
+314,Lung Squamous Cell Carcinoma,255,,66,Male,,,Matched,Ex-Smoker,80.0,8.5
+315,Lung Squamous Cell Carcinoma,244,,66,Male,,,Matched,Ex-Smoker,80.0,8.133333333
+316,Lung Squamous Cell Carcinoma,16,,67,Male,,,Matched,Ex-Smoker,25.5,0.533333333
+317,Lung Squamous Cell Carcinoma,206,,67,Male,,,Matched,Ex-Smoker,25.5,6.966666667
+318,Lung Squamous Cell Carcinoma,186,,67,Male,,,Matched,Ex-Smoker,25.5,6.3
+319,Lung Squamous Cell Carcinoma,167,,67,Male,,,Matched,Ex-Smoker,25.5,5.633333333
+320,Lung Squamous Cell Carcinoma,186,,67,Male,,,Matched,Ex-Smoker,25.5,6.3
+321,Lung Squamous Cell Carcinoma,20,,79,Female,,,Matched,Ex-Smoker,16.0,0.666666667
+322,Lung Squamous Cell Carcinoma,20,,79,Female,,,Matched,Ex-Smoker,16.0,0.666666667
+323,Lung Squamous Cell Carcinoma,194,,79,Female,,,Matched,Ex-Smoker,16.0,6.433333333
+324,Lung Squamous Cell Carcinoma,197,,79,Female,,,Matched,Ex-Smoker,16.0,6.566666667
+325,Lung Squamous Cell Carcinoma,19,,80,Male,,,Matched,Ex-Smoker,79.5,0.633333333
+326,Lung Squamous Cell Carcinoma,407,,80,Male,,,Matched,Ex-Smoker,79.5,13.8
+327,Lung Squamous Cell Carcinoma,421,,80,Male,,,Matched,Ex-Smoker,79.5,14.26666667
+328,Lung Squamous Cell Carcinoma,416,,80,Male,,,Matched,Ex-Smoker,79.5,14.1
+329,Lung Squamous Cell Carcinoma,19,,75,Male,,,Matched,Recent Ex-Smoker,41.3,0.633333333
+330,Lung Squamous Cell Carcinoma,368,,75,Male,,,Matched,Recent Ex-Smoker,41.3,12.3
+331,Lung Squamous Cell Carcinoma,394,,75,Male,,,Matched,Recent Ex-Smoker,41.3,13.1
+332,Lung Squamous Cell Carcinoma,18,,63,Male,,,Matched,Recent Ex-Smoker,102.0,0.633333333
+333,Lung Squamous Cell Carcinoma,485,,63,Male,,,Matched,Recent Ex-Smoker,102.0,16.2
+334,Lung Squamous Cell Carcinoma,420,,63,Male,,,Matched,Recent Ex-Smoker,102.0,14.03333333
+335,Lung Squamous Cell Carcinoma,487,,63,Male,,,Matched,Recent Ex-Smoker,102.0,16.26666667
+336,Lung Squamous Cell Carcinoma,422,,63,Male,,,Matched,Recent Ex-Smoker,102.0,14.1
+337,Lung Squamous Cell Carcinoma,18,,72,Male,,,Matched,Ex-Smoker,58.0,0.6
+338,Lung Squamous Cell Carcinoma,321,,72,Male,,,Matched,Ex-Smoker,58.0,10.73333333
+339,Lung Squamous Cell Carcinoma,326,,72,Male,,,Matched,Ex-Smoker,58.0,10.9
+340,Lung Squamous Cell Carcinoma,321,,72,Male,,,Matched,Ex-Smoker,58.0,10.73333333
+341,Lung Squamous Cell Carcinoma,297,,72,Male,,,Matched,Ex-Smoker,58.0,9.933333333
+342,Lung Squamous Cell Carcinoma,16,,58,Male,,,Matched,Recent Ex-Smoker,63.0,0.566666667
+343,Lung Squamous Cell Carcinoma,169,,58,Male,,,Matched,Recent Ex-Smoker,63.0,5.7
+344,Lung Squamous Cell Carcinoma,156,,58,Male,,,Matched,Recent Ex-Smoker,63.0,5.266666667
+345,Lung Squamous Cell Carcinoma,166,,58,Male,,,Matched,Recent Ex-Smoker,63.0,5.6
+346,Lung Squamous Cell Carcinoma,18,,63,Female,,,Matched,Recent Ex-Smoker,15.0,0.6
+347,Lung Squamous Cell Carcinoma,223,,63,Female,,,Matched,Recent Ex-Smoker,15.0,7.5
+348,Lung Squamous Cell Carcinoma,228,,63,Female,,,Matched,Recent Ex-Smoker,15.0,7.666666667
+349,Lung Squamous Cell Carcinoma,238,,63,Female,,,Matched,Recent Ex-Smoker,15.0,8.0
+350,Lung Squamous Cell Carcinoma,225,,63,Female,,,Matched,Recent Ex-Smoker,15.0,7.566666667
+351,Lung Squamous Cell Carcinoma,18,,61,Male,,,Matched,Recent Ex-Smoker,56.25,0.6
+352,Lung Squamous Cell Carcinoma,18,,61,Male,,,Matched,Recent Ex-Smoker,56.25,0.6
+353,Lung Squamous Cell Carcinoma,119,,61,Male,,,Matched,Recent Ex-Smoker,56.25,4.033333333
+354,Lung Squamous Cell Carcinoma,120,,61,Male,,,Matched,Recent Ex-Smoker,56.25,4.066666667
+355,Lung Squamous Cell Carcinoma,122,,61,Male,,,Matched,Recent Ex-Smoker,56.25,4.133333333
+356,Lung Squamous Cell Carcinoma,122,,61,Male,,,Matched,Recent Ex-Smoker,56.25,4.133333333
+357,Lung Squamous Cell Carcinoma,119,,61,Male,,,Matched,Recent Ex-Smoker,56.25,4.033333333
+358,Lung Squamous Cell Carcinoma,20,,72,Male,,,Matched,Current Smoker,13.75,0.666666667
+359,Lung Squamous Cell Carcinoma,309,,72,Male,,,Matched,Current Smoker,13.75,10.33333333
+360,Lung Squamous Cell Carcinoma,326,,72,Male,,,Matched,Current Smoker,13.75,10.9
+361,Lung Squamous Cell Carcinoma,322,,72,Male,,,Matched,Current Smoker,13.75,10.76666667
+362,Lung Squamous Cell Carcinoma,20,,63,Female,,,Matched,Recent Ex-Smoker,,0.666666667
+363,Lung Squamous Cell Carcinoma,308,,63,Female,,,Matched,Recent Ex-Smoker,,10.3
+364,Lung Squamous Cell Carcinoma,307,,63,Female,,,Matched,Recent Ex-Smoker,,10.26666667
+365,Lung Squamous Cell Carcinoma,285,,63,Female,,,Matched,Recent Ex-Smoker,,9.5
+366,Lung Squamous Cell Carcinoma,294,,63,Female,,,Matched,Recent Ex-Smoker,,9.833333333
+367,Lung Squamous Cell Carcinoma,279,,63,Female,,,Matched,Recent Ex-Smoker,,9.3
+368,Lung Squamous Cell Carcinoma,16,,72,Male,,,Matched,Ex-Smoker,50.0,0.533333333
+369,Lung Squamous Cell Carcinoma,18,,72,Male,,,Matched,Ex-Smoker,50.0,0.6
+370,Lung Squamous Cell Carcinoma,466,,72,Male,,,Matched,Ex-Smoker,50.0,15.6
+371,Lung Squamous Cell Carcinoma,456,,72,Male,,,Matched,Ex-Smoker,50.0,15.26666667
+372,Lung Squamous Cell Carcinoma,458,,72,Male,,,Matched,Ex-Smoker,50.0,15.33333333
+373,Lung Squamous Cell Carcinoma,459,,72,Male,,,Matched,Ex-Smoker,50.0,15.36666667
+374,Lung Squamous Cell Carcinoma,12,,65,Female,,,Matched,Ex-Smoker,32.25,0.4
+375,Lung Squamous Cell Carcinoma,15,,65,Female,,,Matched,Ex-Smoker,32.25,0.5
+376,Lung Squamous Cell Carcinoma,167,,65,Female,,,Matched,Ex-Smoker,32.25,5.6
+377,Lung Squamous Cell Carcinoma,165,,65,Female,,,Matched,Ex-Smoker,32.25,5.533333333
+378,Lung Squamous Cell Carcinoma,172,,65,Female,,,Matched,Ex-Smoker,32.25,5.766666667
+379,Lung Squamous Cell Carcinoma,160,,65,Female,,,Matched,Ex-Smoker,32.25,5.366666667
+380,Lung Squamous Cell Carcinoma,19,,78,Male,,,Matched,Current Smoker,50.25,0.633333333
+381,Lung Squamous Cell Carcinoma,593,,78,Male,,,Matched,Current Smoker,50.25,19.86666667
+382,Lung Squamous Cell Carcinoma,622,,78,Male,,,Matched,Current Smoker,50.25,20.83333333
+383,Lung Squamous Cell Carcinoma,620,,78,Male,,,Matched,Current Smoker,50.25,20.76666667
+384,Lung Squamous Cell Carcinoma,611,,78,Male,,,Matched,Current Smoker,50.25,20.46666667
+385,Lung Squamous Cell Carcinoma,19,,79,Male,,,Matched,Ex-Smoker,92.0,0.633333333
+386,Lung Squamous Cell Carcinoma,250,,79,Male,,,Matched,Ex-Smoker,92.0,8.366666667
+387,Lung Squamous Cell Carcinoma,255,,79,Male,,,Matched,Ex-Smoker,92.0,8.533333333
+388,Lung Squamous Cell Carcinoma,255,,79,Male,,,Matched,Ex-Smoker,92.0,8.533333333
+389,Lung Squamous Cell Carcinoma,19,,81,Female,,,Matched,Recent Ex-Smoker,2.1,0.633333333
+390,Lung Squamous Cell Carcinoma,251,,81,Female,,,Matched,Recent Ex-Smoker,2.1,8.4
+391,Lung Squamous Cell Carcinoma,261,,81,Female,,,Matched,Recent Ex-Smoker,2.1,8.7
+392,Lung Squamous Cell Carcinoma,249,,81,Female,,,Matched,Recent Ex-Smoker,2.1,8.333333333
+393,Lung Squamous Cell Carcinoma,17,,81,Male,,,Matched,Ex-Smoker,40.0,0.566666667
+394,Lung Squamous Cell Carcinoma,233,,81,Male,,,Matched,Ex-Smoker,40.0,7.8
+395,Lung Squamous Cell Carcinoma,239,,81,Male,,,Matched,Ex-Smoker,40.0,8.0
+396,Lung Squamous Cell Carcinoma,20,,66,Male,,,Matched,Recent Ex-Smoker,15.0,0.666666667
+397,Lung Squamous Cell Carcinoma,474,,66,Male,,,Matched,Recent Ex-Smoker,15.0,15.9
+398,Lung Squamous Cell Carcinoma,461,,66,Male,,,Matched,Recent Ex-Smoker,15.0,15.46666667
+399,Lung Squamous Cell Carcinoma,19,,65,Male,,,Matched,Ex-Smoker,16.5,0.633333333
+400,Lung Squamous Cell Carcinoma,570,,65,Male,,,Matched,Ex-Smoker,16.5,19.1
+401,Lung Squamous Cell Carcinoma,571,,65,Male,,,Matched,Ex-Smoker,16.5,19.13333333
+402,Lung Squamous Cell Carcinoma,19,,50,Female,,,Matched,Recent Ex-Smoker,34.0,0.633333333
+403,Lung Squamous Cell Carcinoma,420,,50,Female,,,Matched,Recent Ex-Smoker,34.0,14.13333333
+404,Lung Squamous Cell Carcinoma,418,,50,Female,,,Matched,Recent Ex-Smoker,34.0,14.06666667
+405,Lung Squamous Cell Carcinoma,124,,76,Male,,,Matched,Recent Ex-Smoker,100.0,4.166666667
+406,Lung Squamous Cell Carcinoma,123,,76,Male,,,Matched,Recent Ex-Smoker,100.0,4.133333333
+407,Lung Squamous Cell Carcinoma,17,,69,Male,,,Matched,Never Smoked,,0.566666667
+408,Lung Squamous Cell Carcinoma,796,,69,Male,,,Matched,Never Smoked,,26.66666667
+409,Lung Squamous Cell Carcinoma,797,,69,Male,,,Matched,Never Smoked,,26.7
+410,Non-Small Cell Lung Cancer,15,,34,Male,,,Matched,Never Smoked,,0.5
+411,Non-Small Cell Lung Cancer,31,,34,Male,,,Matched,Never Smoked,,1.033333333
+412,Non-Small Cell Lung Cancer,34,,34,Male,,,Matched,Never Smoked,,1.133333333
+413,Non-Small Cell Lung Cancer,31,,34,Male,,,Matched,Never Smoked,,1.033333333
+414,Non-Small Cell Lung Cancer,37,,34,Male,,,Matched,Never Smoked,,1.233333333
+415,Lung Adenosquamous Carcinoma,14,,59,Female,,,Matched,Recent Ex-Smoker,22.8,0.466666667
+416,Lung Adenosquamous Carcinoma,127,,59,Female,,,Matched,Recent Ex-Smoker,22.8,4.166666667
+417,Lung Adenosquamous Carcinoma,131,,59,Female,,,Matched,Recent Ex-Smoker,22.8,4.3
+418,Lung Adenosquamous Carcinoma,132,,59,Female,,,Matched,Recent Ex-Smoker,22.8,4.333333333
+419,Lung Adenosquamous Carcinoma,18,,74,Female,,,Matched,Recent Ex-Smoker,53.0,0.6
+420,Lung Adenosquamous Carcinoma,248,,74,Female,,,Matched,Recent Ex-Smoker,53.0,8.266666667
+421,Lung Adenosquamous Carcinoma,251,,74,Female,,,Matched,Recent Ex-Smoker,53.0,8.366666667
+422,Lung Adenosquamous Carcinoma,259,,74,Female,,,Matched,Recent Ex-Smoker,53.0,8.633333333
+423,Lung Adenosquamous Carcinoma,257,,74,Female,,,Matched,Recent Ex-Smoker,53.0,8.566666667
+424,Lung Adenosquamous Carcinoma,254,,74,Female,,,Matched,Recent Ex-Smoker,53.0,8.466666667
+425,Lung Adenosquamous Carcinoma,257,,74,Female,,,Matched,Recent Ex-Smoker,53.0,8.566666667
+426,Lung Adenosquamous Carcinoma,258,,74,Female,,,Matched,Recent Ex-Smoker,53.0,8.6
+427,Large Cell Lung Carcinoma,18,,76,Male,,,Matched,Recent Ex-Smoker,118.0,0.6
+428,Large Cell Lung Carcinoma,220,,76,Male,,,Matched,Recent Ex-Smoker,118.0,7.3
+429,Large Cell Lung Carcinoma,238,,76,Male,,,Matched,Recent Ex-Smoker,118.0,7.9
+430,Non-Small Cell Lung Cancer,17,,55,Male,,,Matched,Current Smoker,48.75,0.566666667
+431,Non-Small Cell Lung Cancer,396,,55,Male,,,Matched,Current Smoker,48.75,13.23333333
+432,Non-Small Cell Lung Cancer,393,,55,Male,,,Matched,Current Smoker,48.75,13.13333333
+433,Non-Small Cell Lung Cancer,420,,55,Male,,,Matched,Current Smoker,48.75,14.03333333
+434,Lung Adenosquamous Carcinoma,208,,77,Male,,,Matched,Ex-Smoker,48.0,6.933333333
+435,Lung Adenosquamous Carcinoma,20,,77,Male,,,Matched,Ex-Smoker,48.0,0.666666667
+436,Lung Adenosquamous Carcinoma,195,,77,Male,,,Matched,Ex-Smoker,48.0,6.5
+437,Lung Adenosquamous Carcinoma,200,,77,Male,,,Matched,Ex-Smoker,48.0,6.666666667
+438,Lung Adenosquamous Carcinoma,207,,77,Male,,,Matched,Ex-Smoker,48.0,6.9
+439,Lung Adenosquamous Carcinoma,202,,77,Male,,,Matched,Ex-Smoker,48.0,6.733333333
+440,Lung Adenosquamous Carcinoma,202,,77,Male,,,Matched,Ex-Smoker,48.0,6.733333333
+441,Lung Adenosquamous Carcinoma,212,,77,Male,,,Matched,Ex-Smoker,48.0,7.066666667
+442,Lung Adenosquamous Carcinoma,204,,77,Male,,,Matched,Ex-Smoker,48.0,6.8
+443,Large Cell Neuroendocrine Carcinoma,21,,49,Female,,,Matched,Recent Ex-Smoker,25.0,0.7
+444,Large Cell Neuroendocrine Carcinoma,425,,49,Female,,,Matched,Recent Ex-Smoker,25.0,14.26666667
+445,Large Cell Neuroendocrine Carcinoma,418,,49,Female,,,Matched,Recent Ex-Smoker,25.0,14.03333333
+446,Large Cell Neuroendocrine Carcinoma,416,,49,Female,,,Matched,Recent Ex-Smoker,25.0,13.96666667
