@@ -1,0 +1,121 @@
+Study.ID,Patient.ID,Sample.ID,Diagnosis.Age,Cancer.Type,Cancer.Type.Detailed,Mutation.Count,M.Stage,N.Stage,Survival.Status,Sex,Smoking History,Person Cigarette Smoking History Pack Year Value,Somatic.Status,TMB Nonsynonymous,T.Stage
+sclc_ucologne_2015,sclc_ucologne_2015_S00022,sclc_ucologne_2015_S00022,47,Small Cell Lung Cancer,Small Cell Lung Cancer,183,0,2,1:DECEASED,Male,Current,NA,Matched,6.066666667,1
+sclc_ucologne_2015,sclc_ucologne_2015_S00035,sclc_ucologne_2015_S00035,65,Small Cell Lung Cancer,Small Cell Lung Cancer,232,1,1,1:DECEASED,Female,Former,NA,Matched,7.733333333,3
+sclc_ucologne_2015,sclc_ucologne_2015_S00050,sclc_ucologne_2015_S00050,47,Small Cell Lung Cancer,Small Cell Lung Cancer,318,0,0,1:DECEASED,Male,Current,NA,Matched,10.6,1
+sclc_ucologne_2015,sclc_ucologne_2015_S00213,sclc_ucologne_2015_S00213,65,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,0,2,1:DECEASED,Male,NA,NA,Unmatched,0,1
+sclc_ucologne_2015,sclc_ucologne_2015_S00339,sclc_ucologne_2015_S00339,61,Small Cell Lung Cancer,Small Cell Lung Cancer,88,0,2,NA,Male,NA,NA,Matched,2.933333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00356,sclc_ucologne_2015_S00356,54,Small Cell Lung Cancer,Small Cell Lung Cancer,196,0,2,1:DECEASED,Female,Current,NA,Matched,6.533333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00472,sclc_ucologne_2015_S00472,56,Small Cell Lung Cancer,Small Cell Lung Cancer,487,0,2,1:DECEASED,Male,Current,NA,Matched,16.23333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00501,sclc_ucologne_2015_S00501,55,Small Cell Lung Cancer,Small Cell Lung Cancer,704,1,2,1:DECEASED,Female,Current,NA,Matched,23.43333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00539,sclc_ucologne_2015_S00539,66,Small Cell Lung Cancer,Small Cell Lung Cancer,367,1,3,1:DECEASED,Female,Current,NA,Matched,12.2,3
+sclc_ucologne_2015,sclc_ucologne_2015_S00825,sclc_ucologne_2015_S00825,59,Small Cell Lung Cancer,Small Cell Lung Cancer,219,0,2,1:DECEASED,Male,Current,Smoking Pack years:50,Matched,7.333333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00827,sclc_ucologne_2015_S00827,73,Small Cell Lung Cancer,Small Cell Lung Cancer,515,0,1,0:LIVING,Male,Former (>28 Years),Smoking Pack years:10,Matched,17.1,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00829,sclc_ucologne_2015_S00829,63,Small Cell Lung Cancer,Small Cell Lung Cancer,244,0,0,0:LIVING,Male,Former (>15 Years),Smoking Pack years:25,Matched,8.133333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00830,sclc_ucologne_2015_S00830,51,Small Cell Lung Cancer,Small Cell Lung Cancer,208,0,1,0:LIVING,Female,Current,Smoking Pack years:70,Matched,6.9,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00831,sclc_ucologne_2015_S00831,63,Small Cell Lung Cancer,Small Cell Lung Cancer,195,1,X,1:DECEASED,Male,Former (>6 Months),Smoking Pack years:30,Matched,6.533333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00832,sclc_ucologne_2015_S00832,70,Small Cell Lung Cancer,Small Cell Lung Cancer,187,0,1,1:DECEASED,Male,Current,NA,Matched,6.2,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00833,sclc_ucologne_2015_S00833,77,Small Cell Lung Cancer,Small Cell Lung Cancer,186,0,X,1:DECEASED,Female,Current,Smoking Pack years:23,Matched,6.166666667,1
+sclc_ucologne_2015,sclc_ucologne_2015_S00836,sclc_ucologne_2015_S00836,66,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,0,0,0:LIVING,Female,Current,Smoking Pack years:40,Unmatched,0,1
+sclc_ucologne_2015,sclc_ucologne_2015_S00837,sclc_ucologne_2015_S00837,70,Small Cell Lung Cancer,Small Cell Lung Cancer,166,0,0,1:DECEASED,Female,Current,Smoking Pack years:70,Matched,5.533333333,1
+sclc_ucologne_2015,sclc_ucologne_2015_S00838,sclc_ucologne_2015_S00838,73,Small Cell Lung Cancer,Small Cell Lung Cancer,243,0,2,1:DECEASED,Male,Former (<6 Months),Smoking Pack years:50,Matched,8.1,4
+sclc_ucologne_2015,sclc_ucologne_2015_S00841,sclc_ucologne_2015_S00841,73,Small Cell Lung Cancer,Small Cell Lung Cancer,380,0,2,1:DECEASED,Male,Former (<6 Months),NA,Matched,12.63333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00842,sclc_ucologne_2015_S00842,46,Small Cell Lung Cancer,Small Cell Lung Cancer,159,0,3,1:DECEASED,Male,Former (<6 Months),NA,Matched,5.3,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00932,sclc_ucologne_2015_S00932,69,Small Cell Lung Cancer,Small Cell Lung Cancer,125,0,0,NA,Male,NA,NA,Matched,4.166666667,1
+sclc_ucologne_2015,sclc_ucologne_2015_S00933,sclc_ucologne_2015_S00933,55,Small Cell Lung Cancer,Small Cell Lung Cancer,189,NA,1,NA,Female,NA,NA,Matched,6.3,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00934,sclc_ucologne_2015_S00934,59,Small Cell Lung Cancer,Small Cell Lung Cancer,263,1,1,NA,Female,NA,NA,Matched,8.766666667,1
+sclc_ucologne_2015,sclc_ucologne_2015_S00935,sclc_ucologne_2015_S00935,57,Small Cell Lung Cancer,Small Cell Lung Cancer,149,1,2,1:DECEASED,Female,NA,NA,Matched,4.966666667,3
+sclc_ucologne_2015,sclc_ucologne_2015_S00938,sclc_ucologne_2015_S00938,58,Small Cell Lung Cancer,Small Cell Lung Cancer,249,1,3,1:DECEASED,Female,NA,NA,Matched,8.266666667,4
+sclc_ucologne_2015,sclc_ucologne_2015_S00941,sclc_ucologne_2015_S00941,80,Small Cell Lung Cancer,Small Cell Lung Cancer,226,1,2,1:DECEASED,Female,Former,NA,Matched,7.5,2
+sclc_ucologne_2015,sclc_ucologne_2015_S00944,sclc_ucologne_2015_S00944,64,Small Cell Lung Cancer,Small Cell Lung Cancer,501,1,3,1:DECEASED,Female,NA,NA,Matched,16.66666667,3
+sclc_ucologne_2015,sclc_ucologne_2015_S00945,sclc_ucologne_2015_S00945,83,Small Cell Lung Cancer,Small Cell Lung Cancer,208,1,3,1:DECEASED,Male,NA,NA,Matched,6.933333333,3
+sclc_ucologne_2015,sclc_ucologne_2015_S00947,sclc_ucologne_2015_S00947,71,Small Cell Lung Cancer,Small Cell Lung Cancer,105,1,2,1:DECEASED,Male,NA,NA,Matched,3.533333333,3
+sclc_ucologne_2015,sclc_ucologne_2015_S01020,sclc_ucologne_2015_S01020,33,Small Cell Lung Cancer,Small Cell Lung Cancer,487,1,2,1:DECEASED,Female,NA,NA,Matched,16.23333333,3
+sclc_ucologne_2015,sclc_ucologne_2015_S01022,sclc_ucologne_2015_S01022,78,Small Cell Lung Cancer,Small Cell Lung Cancer,403,1,3,1:DECEASED,Male,NA,NA,Matched,13.43333333,3
+sclc_ucologne_2015,sclc_ucologne_2015_S01023,sclc_ucologne_2015_S01023,70,Small Cell Lung Cancer,Small Cell Lung Cancer,387,0,3,1:DECEASED,Female,Current,NA,Matched,12.9,4
+sclc_ucologne_2015,sclc_ucologne_2015_S01170,sclc_ucologne_2015_S01170,71,Small Cell Lung Cancer,Small Cell Lung Cancer,226,0,0,1:DECEASED,Male,Former,Smoking Pack years:60,Matched,7.566666667,1
+sclc_ucologne_2015,sclc_ucologne_2015_S01242,sclc_ucologne_2015_S01242,76,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,0,0,1:DECEASED,Female,Current,Smoking Pack years:30,Unmatched,0,1
+sclc_ucologne_2015,sclc_ucologne_2015_S01248,sclc_ucologne_2015_S01248,70,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,0,0,1:DECEASED,Male,Current,NA,Unmatched,0,2
+sclc_ucologne_2015,sclc_ucologne_2015_S01297,sclc_ucologne_2015_S01297,64,Small Cell Lung Cancer,Small Cell Lung Cancer,356,0,0,NA,Female,Current,NA,Matched,11.86666667,3
+sclc_ucologne_2015,sclc_ucologne_2015_S01366,sclc_ucologne_2015_S01366,68,Small Cell Lung Cancer,Small Cell Lung Cancer,619,0,2,1:DECEASED,Male,Current,NA,Matched,20.66666667,4
+sclc_ucologne_2015,sclc_ucologne_2015_S01453,sclc_ucologne_2015_S01453,66,Small Cell Lung Cancer,Small Cell Lung Cancer,338,x,0,NA,Male,Former,NA,Matched,11.2,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S01494,sclc_ucologne_2015_S01494,58,Small Cell Lung Cancer,Small Cell Lung Cancer,61,0,1,0:LIVING,Female,Former,Smoking Pack years:24,Matched,2.033333333,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S01512,sclc_ucologne_2015_S01512,64,Small Cell Lung Cancer,Small Cell Lung Cancer,299,0,0,0:LIVING,Male,Current,Smoking Pack years:40,Matched,10,1
+sclc_ucologne_2015,sclc_ucologne_2015_S01516,sclc_ucologne_2015_S01516,62,Small Cell Lung Cancer,Small Cell Lung Cancer,210,0,0,1:DECEASED,Female,Former,Smoking Pack years:25,Matched,7,1
+sclc_ucologne_2015,sclc_ucologne_2015_S01524,sclc_ucologne_2015_S01524,77,Small Cell Lung Cancer,Small Cell Lung Cancer,103,0,0,1:DECEASED,Male,Former,Smoking Pack years:25,Matched,3.366666667,1
+sclc_ucologne_2015,sclc_ucologne_2015_S01542,sclc_ucologne_2015_S01542,74,Small Cell Lung Cancer,Small Cell Lung Cancer,268,0,0,0:LIVING,Female,Current,Smoking Pack years:50,Matched,8.966666667,2
+sclc_ucologne_2015,sclc_ucologne_2015_S01556,sclc_ucologne_2015_S01556,71,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,NA,NA,NA,Female,Former,Smoking Pack years:35,Unmatched,0,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S01563,sclc_ucologne_2015_S01563,53,Small Cell Lung Cancer,Small Cell Lung Cancer,293,NA,NA,NA,Male,NA,NA,Matched,9.7,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S01578,sclc_ucologne_2015_S01578,76,Small Cell Lung Cancer,Small Cell Lung Cancer,366,0,0,1:DECEASED,Male,Former,Smoking Pack years:60,Matched,12.23333333,1
+sclc_ucologne_2015,sclc_ucologne_2015_S01698,sclc_ucologne_2015_S01698,78,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,0,0,0:LIVING,Male,Former,NA,Unmatched,0,1
+sclc_ucologne_2015,sclc_ucologne_2015_S01728,sclc_ucologne_2015_S01728,65,Small Cell Lung Cancer,Small Cell Lung Cancer,106,x,1,1:DECEASED,Male,Former,NA,Matched,3.533333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S01792,sclc_ucologne_2015_S01792,74,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,1,3,1:DECEASED,Female,Former,NA,Unmatched,0,2
+sclc_ucologne_2015,sclc_ucologne_2015_S01861,sclc_ucologne_2015_S01861,68,Small Cell Lung Cancer,Small Cell Lung Cancer,374,x,2,1:DECEASED,Male,Former,NA,Matched,12.43333333,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S01864,sclc_ucologne_2015_S01864,52,Small Cell Lung Cancer,Small Cell Lung Cancer,255,0,2,1:DECEASED,Male,Current,NA,Matched,8.5,1b
+sclc_ucologne_2015,sclc_ucologne_2015_S01873,sclc_ucologne_2015_S01873,67,Small Cell Lung Cancer,Small Cell Lung Cancer,290,0,0,1:DECEASED,Male,Current,NA,Matched,9.666666667,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S02065,sclc_ucologne_2015_S02065,81,Small Cell Lung Cancer,Small Cell Lung Cancer,355,0,0,1:DECEASED,Male,Current,NA,Matched,11.86666667,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02093,sclc_ucologne_2015_S02093,63,Small Cell Lung Cancer,Small Cell Lung Cancer,205,x,1,1:DECEASED,Female,Current,NA,Matched,6.833333333,3
+sclc_ucologne_2015,sclc_ucologne_2015_S02120,sclc_ucologne_2015_S02120,63,Small Cell Lung Cancer,Small Cell Lung Cancer,324,0,2,0:LIVING,Male,Former,NA,Matched,10.86666667,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02139,sclc_ucologne_2015_S02139,63,Small Cell Lung Cancer,Small Cell Lung Cancer,494,0,1,0:LIVING,Female,Current,NA,Matched,16.43333333,1b
+sclc_ucologne_2015,sclc_ucologne_2015_S02163,sclc_ucologne_2015_S02163,63,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,0,1,1:DECEASED,Male,Former,Smoking Pack years:>10PY,Unmatched,0,3
+sclc_ucologne_2015,sclc_ucologne_2015_S02194,sclc_ucologne_2015_S02194,64,Small Cell Lung Cancer,Small Cell Lung Cancer,144,1b,2,1:DECEASED,Male,Current,NA,Matched,4.8,x
+sclc_ucologne_2015,sclc_ucologne_2015_S02209,sclc_ucologne_2015_S02209,83,Small Cell Lung Cancer,Small Cell Lung Cancer,315,0,0,1:DECEASED,Male,Current,Smoking Pack years:>10PY,Matched,10.5,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S02219,sclc_ucologne_2015_S02219,NA,Small Cell Lung Cancer,Small Cell Lung Cancer,227,x,1,NA,Male,Current,NA,Matched,7.566666667,3
+sclc_ucologne_2015,sclc_ucologne_2015_S02234,sclc_ucologne_2015_S02234,76,Small Cell Lung Cancer,Small Cell Lung Cancer,263,0,2,0:LIVING,Male,Current,Smoking Pack years:60,Matched,8.766666667,1a
+sclc_ucologne_2015,sclc_ucologne_2015_S02237,sclc_ucologne_2015_S02237,60,Small Cell Lung Cancer,Small Cell Lung Cancer,195,0,2,1:DECEASED,Female,Current,Smoking Pack years:42,Matched,6.533333333,1b
+sclc_ucologne_2015,sclc_ucologne_2015_S02241,sclc_ucologne_2015_S02241,61,Small Cell Lung Cancer,Small Cell Lung Cancer,184,0,1,1:DECEASED,Male,Current,Smoking Pack years:35,Matched,6.133333333,3
+sclc_ucologne_2015,sclc_ucologne_2015_S02242,sclc_ucologne_2015_S02242,82,Small Cell Lung Cancer,Small Cell Lung Cancer,359,0,0,1:DECEASED,Male,Current,Smoking Pack years:90,Matched,12,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S02243,sclc_ucologne_2015_S02243,64,Small Cell Lung Cancer,Small Cell Lung Cancer,256,0,0,1:DECEASED,Male,Current,NA,Matched,8.533333333,1a
+sclc_ucologne_2015,sclc_ucologne_2015_S02244,sclc_ucologne_2015_S02244,53,Small Cell Lung Cancer,Small Cell Lung Cancer,203,x,0,0:LIVING,Male,NA,NA,Matched,6.766666667,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02245,sclc_ucologne_2015_S02245,63,Small Cell Lung Cancer,Small Cell Lung Cancer,197,0,0,1:DECEASED,Female,Current,Smoking Pack years:20,Matched,6.533333333,1b
+sclc_ucologne_2015,sclc_ucologne_2015_S02246,sclc_ucologne_2015_S02246,68,Small Cell Lung Cancer,Small Cell Lung Cancer,352,0,1,1:DECEASED,Male,Former (>6 Months),Smoking Pack years:50,Matched,11.76666667,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02248,sclc_ucologne_2015_S02248,67,Small Cell Lung Cancer,Small Cell Lung Cancer,369,0,1,0:LIVING,Male,Former (>6 Months),Smoking Pack years:88,Matched,12.33333333,1b
+sclc_ucologne_2015,sclc_ucologne_2015_S02249,sclc_ucologne_2015_S02249,74,Small Cell Lung Cancer,Small Cell Lung Cancer,189,0,2,1:DECEASED,Male,Former (<6 Months),Smoking Pack years:80,Matched,6.3,2b
+sclc_ucologne_2015,sclc_ucologne_2015_S02255,sclc_ucologne_2015_S02255,64,Small Cell Lung Cancer,Small Cell Lung Cancer,525,0,0,0:LIVING,Female,Current,Smoking Pack years:35,Matched,17.46666667,1b
+sclc_ucologne_2015,sclc_ucologne_2015_S02256,sclc_ucologne_2015_S02256,61,Small Cell Lung Cancer,Small Cell Lung Cancer,137,0,2,1:DECEASED,Male,Current,Smoking Pack years:50,Matched,4.566666667,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S02273,sclc_ucologne_2015_S02273,58,Small Cell Lung Cancer,Small Cell Lung Cancer,536,1,NA,1:DECEASED,Female,Current,Smoking Pack years:80,Matched,17.8,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02274,sclc_ucologne_2015_S02274,60,Small Cell Lung Cancer,Small Cell Lung Cancer,200,0,0,1:DECEASED,Female,Former,Smoking Pack years:45,Matched,6.666666667,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02275,sclc_ucologne_2015_S02275,72,Small Cell Lung Cancer,Small Cell Lung Cancer,139,x,0,0:LIVING,Male,Former,Smoking Pack years:40,Matched,4.633333333,3
+sclc_ucologne_2015,sclc_ucologne_2015_S02277,sclc_ucologne_2015_S02277,67,Small Cell Lung Cancer,Small Cell Lung Cancer,280,x,0,0:LIVING,Female,Former,Smoking Pack years:50,Matched,9.3,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02279,sclc_ucologne_2015_S02279,58,Small Cell Lung Cancer,Small Cell Lung Cancer,336,x,1,1:DECEASED,Male,Current,Smoking Pack years:50,Matched,11.2,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02284,sclc_ucologne_2015_S02284,66,Small Cell Lung Cancer,Small Cell Lung Cancer,230,0,0,1:DECEASED,Male,Former,Smoking Pack years:24,Matched,7.566666667,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02285,sclc_ucologne_2015_S02285,83,Small Cell Lung Cancer,Small Cell Lung Cancer,433,1,2,1:DECEASED,Male,Former,Smoking Pack years:24,Matched,14.43333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02286,sclc_ucologne_2015_S02286,68,Small Cell Lung Cancer,Small Cell Lung Cancer,271,0,2,1:DECEASED,Male,Former,Smoking Pack years:45,Matched,9.066666667,3
+sclc_ucologne_2015,sclc_ucologne_2015_S02287,sclc_ucologne_2015_S02287,62,Small Cell Lung Cancer,Small Cell Lung Cancer,168,0,0,1:DECEASED,Male,Current,Smoking Pack years:21,Matched,5.6,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02288,sclc_ucologne_2015_S02288,71,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,0,0,1:DECEASED,Male,Former,Smoking Pack years:45,Unmatched,0,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02289,sclc_ucologne_2015_S02289,58,Small Cell Lung Cancer,Small Cell Lung Cancer,297,0,2,0:LIVING,Female,Former,Smoking Pack years:21,Matched,9.9,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02290,sclc_ucologne_2015_S02290,61,Small Cell Lung Cancer,Small Cell Lung Cancer,317,0,0,1:DECEASED,Male,Current,Smoking Pack years:90,Matched,10.53333333,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02291,sclc_ucologne_2015_S02291,65,Small Cell Lung Cancer,Small Cell Lung Cancer,135,0,0,0:LIVING,Female,Former,Smoking Pack years:60,Matched,4.5,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02292,sclc_ucologne_2015_S02292,71,Small Cell Lung Cancer,Small Cell Lung Cancer,654,0,0,1:DECEASED,Male,Former,Smoking Pack years:40,Matched,21.83333333,3
+sclc_ucologne_2015,sclc_ucologne_2015_S02293,sclc_ucologne_2015_S02293,61,Small Cell Lung Cancer,Small Cell Lung Cancer,198,0,2,1:DECEASED,Male,Current,Smoking Pack years:50,Matched,6.6,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02294,sclc_ucologne_2015_S02294,61,Small Cell Lung Cancer,Small Cell Lung Cancer,217,0,0,1:DECEASED,Female,Current,Smoking Pack years:10,Matched,7.266666667,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02295,sclc_ucologne_2015_S02295,53,Small Cell Lung Cancer,Small Cell Lung Cancer,179,1,2,1:DECEASED,Male,Current,Smoking Pack years:35,Matched,5.966666667,4
+sclc_ucologne_2015,sclc_ucologne_2015_S02296,sclc_ucologne_2015_S02296,70,Small Cell Lung Cancer,Small Cell Lung Cancer,241,0,0,1:DECEASED,Male,Current,Smoking Pack years:50,Matched,8.033333333,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02297,sclc_ucologne_2015_S02297,68,Small Cell Lung Cancer,Small Cell Lung Cancer,73,0,0,0:LIVING,Male,Former,Smoking Pack years:30,Matched,2.4,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02298,sclc_ucologne_2015_S02298,58,Small Cell Lung Cancer,Small Cell Lung Cancer,NA,0,0,1:DECEASED,Male,Never,NA,Unmatched,0,1
+sclc_ucologne_2015,sclc_ucologne_2015_S02299,sclc_ucologne_2015_S02299,51,Small Cell Lung Cancer,Small Cell Lung Cancer,734,0,0,0:LIVING,Male,Current,Smoking Pack years:50,Matched,24.43333333,2
+sclc_ucologne_2015,sclc_ucologne_2015_S02322,sclc_ucologne_2015_S02322,70,Small Cell Lung Cancer,Small Cell Lung Cancer,344,0,0,0:LIVING,Female,Former,Smoking Pack years:55,Matched,11.46666667,3
+sclc_ucologne_2015,sclc_ucologne_2015_S02328,sclc_ucologne_2015_S02328,63,Small Cell Lung Cancer,Small Cell Lung Cancer,383,0,2,0:LIVING,Male,Current,Smoking Pack years:80,Matched,12.76666667,4
+sclc_ucologne_2015,sclc_ucologne_2015_S02342,sclc_ucologne_2015_S02342,75,Small Cell Lung Cancer,Small Cell Lung Cancer,523,NA,NA,0:LIVING,Female,Never,Smoking Pack years:0,Matched,17.43333333,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02344,sclc_ucologne_2015_S02344,70,Small Cell Lung Cancer,Small Cell Lung Cancer,468,NA,NA,1:DECEASED,Female,Current,Smoking Pack years:50,Matched,15.63333333,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02347,sclc_ucologne_2015_S02347,67,Small Cell Lung Cancer,Small Cell Lung Cancer,230,NA,NA,0:LIVING,Female,Never,Smoking Pack years:0,Matched,7.633333333,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02348,sclc_ucologne_2015_S02348,66,Small Cell Lung Cancer,Small Cell Lung Cancer,72,NA,NA,1:DECEASED,Male,Former,Smoking Pack years:45,Matched,2.4,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02350,sclc_ucologne_2015_S02350,76,Small Cell Lung Cancer,Small Cell Lung Cancer,236,NA,NA,1:DECEASED,Male,Former,Smoking Pack years:15,Matched,7.866666667,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02351,sclc_ucologne_2015_S02351,57,Small Cell Lung Cancer,Small Cell Lung Cancer,208,NA,NA,0:LIVING,Male,Former,Smoking Pack years:78,Matched,6.933333333,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02352,sclc_ucologne_2015_S02352,67,Small Cell Lung Cancer,Small Cell Lung Cancer,100,NA,NA,1:DECEASED,Male,Former,Smoking Pack years:65,Matched,3.3,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02353,sclc_ucologne_2015_S02353,47,Small Cell Lung Cancer,Small Cell Lung Cancer,35,NA,NA,1:DECEASED,Male,Former,NA,Matched,1.166666667,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02354,sclc_ucologne_2015_S02354,70,Small Cell Lung Cancer,Small Cell Lung Cancer,133,NA,NA,0:LIVING,Male,Former,Smoking Pack years:40,Matched,4.433333333,NA
+sclc_ucologne_2015,sclc_ucologne_2015_S02355,sclc_ucologne_2015_S02355,68,Small Cell Lung Cancer,Small Cell Lung Cancer,88,0,2,0:LIVING,Male,Former,Smoking Pack years:48,Matched,2.933333333,1a
+sclc_ucologne_2015,sclc_ucologne_2015_S02360,sclc_ucologne_2015_S02360,57,Small Cell Lung Cancer,Small Cell Lung Cancer,266,0,0,0:LIVING,Male,Former,NA,Matched,8.866666667,1a
+sclc_ucologne_2015,sclc_ucologne_2015_S02375,sclc_ucologne_2015_S02375,75,Small Cell Lung Cancer,Small Cell Lung Cancer,248,x,0,0:LIVING,Female,Current,Smoking Pack years:60,Matched,8.266666667,1a
+sclc_ucologne_2015,sclc_ucologne_2015_S02376,sclc_ucologne_2015_S02376,57,Small Cell Lung Cancer,Small Cell Lung Cancer,382,0,0,0:LIVING,Female,Current,Smoking Pack years:43,Matched,12.76666667,1a
+sclc_ucologne_2015,sclc_ucologne_2015_S02378,sclc_ucologne_2015_S02378,70,Small Cell Lung Cancer,Small Cell Lung Cancer,171,0,0,0:LIVING,Female,Current,Smoking Pack years:100,Matched,5.7,1b
+sclc_ucologne_2015,sclc_ucologne_2015_S02382,sclc_ucologne_2015_S02382,59,Small Cell Lung Cancer,Small Cell Lung Cancer,263,1a,3,1:DECEASED,Male,Current,Smoking Pack years:40,Matched,8.833333333,4
+sclc_ucologne_2015,sclc_ucologne_2015_S02384,sclc_ucologne_2015_S02384,69,Small Cell Lung Cancer,Small Cell Lung Cancer,374,1b,1,1:DECEASED,Female,Current,Smoking Pack years:40,Matched,12.46666667,4
+sclc_ucologne_2015,sclc_ucologne_2015_S02385,sclc_ucologne_2015_S02385,69,Small Cell Lung Cancer,Small Cell Lung Cancer,151,1a,3,1:DECEASED,Female,Former,Smoking Pack years:40,Matched,5.033333333,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S02397,sclc_ucologne_2015_S02397,48,Small Cell Lung Cancer,Small Cell Lung Cancer,341,0,0,0:LIVING,Female,Former,Smoking Pack years:0.75,Matched,11.36666667,1b
+sclc_ucologne_2015,sclc_ucologne_2015_S02398,sclc_ucologne_2015_S02398,62,Small Cell Lung Cancer,Small Cell Lung Cancer,73,0,1,0:LIVING,Male,Current,Smoking Pack years:20,Matched,2.433333333,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S02400,sclc_ucologne_2015_S02400,44,Small Cell Lung Cancer,Small Cell Lung Cancer,206,0,1,1:DECEASED,Male,Former,Smoking Pack years:18,Matched,6.866666667,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S02401,sclc_ucologne_2015_S02401,72,Small Cell Lung Cancer,Small Cell Lung Cancer,70,0,2,0:LIVING,Male,Current,Smoking Pack years:55,Matched,2.333333333,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S02402,sclc_ucologne_2015_S02402,57,Small Cell Lung Cancer,Small Cell Lung Cancer,107,0,0,0:LIVING,Male,Current,Smoking Pack years:40,Matched,3.533333333,2a
+sclc_ucologne_2015,sclc_ucologne_2015_S02403,sclc_ucologne_2015_S02403,76,Small Cell Lung Cancer,Small Cell Lung Cancer,183,0,0,0:LIVING,Male,Current,Smoking Pack years:50,Matched,6.066666667,2b
+sclc_ucologne_2015,sclc_ucologne_2015_S02404,sclc_ucologne_2015_S02404,75,Small Cell Lung Cancer,Small Cell Lung Cancer,198,0,0,1:DECEASED,Male,Current,Smoking Pack years:50,Matched,6.6,2b
