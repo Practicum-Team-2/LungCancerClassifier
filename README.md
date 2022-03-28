@@ -4,10 +4,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/Practicum-Team-2/LungCancerClassifier">
-    <img src="img/banner.png" alt="Logo">
+    <img   style = "margin-top:-70px" src="img/banner.png" alt="Logo">
   </a>
 
-  <h3 align="center">Lung Cancer Classifier</h3>
+  <h3 align="center" style = "margin-top:-60px">Lung Cancer Classifier</h3>
   <p align="center">
   A Machine Learning Classifier of Lung Cancer Genomics Datasets.
     <br />
