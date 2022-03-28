@@ -3,11 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Practicum-Team-2/LungCancerClassifier">
-    <img   style = "margin-top:-70px" src="img/banner.png" alt="Logo">
+  <a href="https://github.com/Practicum-Team-2/LungCancerClassifier" >
+    <img  src="img/banner_1.png" alt="Logo"width = "500" hight = "250">
   </a>
 
-  <h3 align="center" style = "margin-top:-60px">Lung Cancer Classifier</h3>
+  <h3 align="center">Lung Cancer Classifier</h3>
   <p align="center">
   A Machine Learning Classifier of Lung Cancer Genomics Datasets.
     <br />
