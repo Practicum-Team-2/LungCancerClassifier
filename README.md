@@ -64,7 +64,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- DATA -->
 ## Data
 
-| Value                   | Type | Description |  Cleaned |
+| Value                   | Type | Description |  Cleaned or Not |
 | :---                    | --- | --- | --- |
 | Cancer Type Detailed    | Categorical| Type of lung cancers     | 1 | 
 | Mutation Count          | Numerical | Tumor mutation count  | 0 |
