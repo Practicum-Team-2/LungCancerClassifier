@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Practicum-Team-2/LungCancerClassifier" >
-    <img  src="img/banner_1.png" alt="Logo"width = "500" hight = "250">
+    <img  src="img/banner_1.png" alt="Logo" width = "800" hight = "250">
   </a>
 
   <h3 align="center">Lung Cancer Classifier</h3>
