@@ -67,14 +67,14 @@ This is an example of how to list things you need to use the software and how to
 | Value                   | Type | Description |  Cleaned or Not |
 | :---                    | --- | --- | --- |
 | Cancer Type Detailed    | Categorical| Type of lung cancers     | 1 | 
-| Mutation Count          | Numerical | Tumor mutation count  | 0 |
+| Mutation Count          | Numerical | Tumor mutation count  | 1 |
 | Diagnosis Age           | Integer | Patient's age at diagnosis | 1 |
 | Sex                     | Categorical | Gender of patient (0 = Female, 1 = male)| 1 |
 | Survival Stage          | Binary | Patient survival status (0 = Living, 1 = Deceased) | 1 |
 | Somatic Status          |  Binary | (0 = Unmatched, 1 = Matched) | 1 | 
 | Smoking History         | Categorical | Patient smoking behavior(0 = Non-smoker, 1 = Former Smoker, 2 = Current Smoker and 3 = Reformed Smoke) | 1 |
 | Person Cigarette Smoking History Pack Year Value    | Numerical | Amount of packs of cigarettes smoked of a lifetime; 1 pack-year is equal to 7305 cigarettes smoked in the past | 1 |
-| TMB Nonsynonymous       | Numerical | The total number of mutations (changes) found in the DNA of cancer cells | 0 |
+| TMB Nonsynonymous       | Numerical | The total number of mutations (changes) found in the DNA of cancer cells | 1 |
 
 **the TNM staging system** : see explanation of the "M/N/T stage" variables in https://www.cancerresearchuk.org/about-cancer/lung-cancer/stages-types-grades/tnm-staging
 
