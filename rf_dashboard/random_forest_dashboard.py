@@ -44,7 +44,7 @@ X_train, X_test, y_train, y_test= train_test_split(X, y, test_size = 0.2, random
 X_train_cat=X_train.iloc[:,[3,4,5]]#the categorical columns
 impute=SimpleImputer(strategy='most_frequent', fill_value='missing')
 X_train_cat=pd.DataFrame(impute.fit_transform(X_train_cat), columns = X_train_cat.columns)
-X_train_cat=pd.get_dummies(X_train_cat, prefix='dummy')
+X_train_cat=pd.get_dummies(X_train_cat)
 
 
 X_train_num=X_train.iloc[:,[0,1,2,6,7]]#the numeric columns
@@ -64,7 +64,7 @@ X_train_good, y_train = oversample.fit_resample(X_train_good, y_train)
 X_test_cat=X_test.iloc[:,[3,4,5]]
 impute=SimpleImputer(strategy='most_frequent', fill_value='missing')
 X_test_cat=pd.DataFrame(impute.fit_transform(X_test_cat), columns = X_test_cat.columns)
-X_test_cat=pd.get_dummies(X_test_cat, prefix='dummy')
+X_test_cat=pd.get_dummies(X_test_cat)
 X_test_num=X_test.iloc[:,[0,1,2,6,7]]
 impute=SimpleImputer(strategy='median')
 X_test_num=impute.fit_transform(X_test_num)
@@ -91,12 +91,12 @@ feature_descriptions = {
 }
 #X_train, y_train, X_test, y_test = titanic_survive()
 #train_names, test_names = titanic_names()
-model = RandomForestClassifier(n_estimators=100, max_depth=9,criterion="gini",max_features=2)
+model = RandomForestClassifier(n_estimators=100, max_depth=9,criterion="gini",max_features=2)#the best parameters
 model.fit(X_train_good, y_train)
 explainer = ClassifierExplainer(model, X_test_good, y_test, 
-                                cats=[{"Somatic Status":['dummy_Matched','dummy_Unmatched']},
-                                      {"Smoking History":['dummy_Current Smoker',"dummy_Former Smoker","dummy_Non Smoker","dummy_Reformed Smoker"]},
-                                    {'Sex': ['dummy_Female', 'dummy_Male']}],
+                                cats=[{"Somatic Status":['Somatic Status_Matched','Somatic Status_Unmatched']},
+                                      {"Smoking History":['Smoking History_Current Smoker',"Smoking History_Former Smoker","Smoking History_Non Smoker","Smoking History_Reformed Smoker"]},
+                                    {'Sex': ['Sex_Female', 'Sex_Male']}],
                                 descriptions=feature_descriptions,
                                 labels=['Lung Adenocarcinoma', 'Lung Squamous Cell Carcinoma'],
                                 index_name = "Sample", 
@@ -107,5 +107,5 @@ db = ExplainerDashboard(explainer,
                         shap_interaction=False,
                         decision_trees=False
                         )
-db.run(port=8030)
+db.run(port=8010)
 
