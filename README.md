@@ -86,19 +86,19 @@ This is an example of how to list things you need to use the software and how to
 
 - [x] Cleaning, exploring, and analyzing data
 
-- [ ] Modeling the data and selecting best ML model
+- [x] Modeling the data and selecting best ML model
 
-- [ ] Synthesizing the results
+- [x] Synthesizing the results
 
-- [ ] Presentation materials: tailor the message for medical audience, visualizations
+- [x] Presentation materials: tailor the message for medical audience, visualizations
 
-- [ ] Presentation materials: create a manual-like code book
+- [x] Presentation materials: create a manual-like code book
 
-- [ ] Presentation materials: prepare the slide deck via PowerPoint to share results to class and medical professionals
+- [x] Presentation materials: prepare the slide deck via PowerPoint to share results to class and medical professionals
 
-- [ ] Presentation materials: dashboard for sample model output along with a user manual
+- [x] Presentation materials: dashboard for sample model output along with a user manual
 
-- [ ]  Review all materials and prepare for presentation day
+- [x]  Review all materials and prepare for presentation day
 
 
 <!-- CONTRIBUTING -->
